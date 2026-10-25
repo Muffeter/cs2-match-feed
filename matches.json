@@ -1,19 +1,5 @@
 [
   {
-    "id": 660858,
-    "team1": {
-      "name": "Team Spirit"
-    },
-    "team2": {
-      "name": "TyLoo"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1792915200000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660854,
     "team1": {
       "name": "FUT Esports"
@@ -28,26 +14,26 @@
     "live": false
   },
   {
-    "id": 660856,
-    "team1": {
-      "name": "BetBoom Team"
-    },
-    "team2": {
-      "name": "Nemiga Gaming"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1792926000000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660855,
     "team1": {
       "name": "Team Vitality"
     },
     "team2": {
       "name": "The MongolZ"
+    },
+    "event": "PGL Masters Bucharest 2026",
+    "format": "bo3",
+    "timeUtc": 1792924800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660856,
+    "team1": {
+      "name": "BetBoom Team"
+    },
+    "team2": {
+      "name": "Nemiga Gaming"
     },
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
@@ -84,12 +70,12 @@
     "live": false
   },
   {
-    "id": 660861,
+    "id": 660857,
     "team1": {
-      "name": "Legacy"
+      "name": "FURIA Esports"
     },
     "team2": {
-      "name": "DENDELE CS"
+      "name": "Natus Vincere"
     },
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
@@ -98,12 +84,12 @@
     "live": false
   },
   {
-    "id": 660857,
+    "id": 660861,
     "team1": {
-      "name": "FURIA Esports"
+      "name": "Legacy"
     },
     "team2": {
-      "name": "Natus Vincere"
+      "name": "DENDELE CS"
     },
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
@@ -136,6 +122,20 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1793041200000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660410,
+    "team1": {
+      "name": "Team LEISURE"
+    },
+    "team2": {
+      "name": "BLUEJAYS.de"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1793210400000,
     "stars": 3,
     "live": false
   }
