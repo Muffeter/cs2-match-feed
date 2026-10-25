@@ -14,20 +14,6 @@
     "live": false
   },
   {
-    "id": 660857,
-    "team1": {
-      "name": "FURIA Esports"
-    },
-    "team2": {
-      "name": "Natus Vincere"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1792947600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660861,
     "team1": {
       "name": "Legacy"
@@ -37,7 +23,21 @@
     },
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
-    "timeUtc": 1792947600000,
+    "timeUtc": 1792940409000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660857,
+    "team1": {
+      "name": "FURIA Esports"
+    },
+    "team2": {
+      "name": "Natus Vincere"
+    },
+    "event": "PGL Masters Bucharest 2026",
+    "format": "bo3",
+    "timeUtc": 1792944000000,
     "stars": 3,
     "live": false
   },
