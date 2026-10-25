@@ -1,25 +1,25 @@
 [
   {
-    "id": 660859,
-    "team1": {
-      "name": "G2 Esports"
-    },
-    "team2": {
-      "name": "Aurora Gaming"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1792932300000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660860,
     "team1": {
       "name": "MOUZ"
     },
     "team2": {
       "name": "9z Team"
+    },
+    "event": "PGL Masters Bucharest 2026",
+    "format": "bo3",
+    "timeUtc": 1792933200000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660859,
+    "team1": {
+      "name": "G2 Esports"
+    },
+    "team2": {
+      "name": "Aurora Gaming"
     },
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
