@@ -1,19 +1,5 @@
 [
   {
-    "id": 660857,
-    "team1": {
-      "name": "FURIA Esports"
-    },
-    "team2": {
-      "name": "Natus Vincere"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1792944000000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660390,
     "team1": {
       "name": "BIG Academy"
@@ -136,6 +122,20 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1793818800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660420,
+    "team1": {
+      "name": "Sissi State Punks"
+    },
+    "team2": {
+      "name": "Reveal"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1794153600000,
     "stars": 3,
     "live": false
   }
