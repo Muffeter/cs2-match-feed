@@ -1,19 +1,5 @@
 [
   {
-    "id": 660854,
-    "team1": {
-      "name": "FUT Esports"
-    },
-    "team2": {
-      "name": "Team Liquid"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1792915200000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660855,
     "team1": {
       "name": "Team Vitality"
@@ -23,7 +9,7 @@
     },
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
-    "timeUtc": 1792924800000,
+    "timeUtc": 1792921200000,
     "stars": 3,
     "live": false
   },
@@ -37,7 +23,7 @@
     },
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
-    "timeUtc": 1792926000000,
+    "timeUtc": 1792922400000,
     "stars": 3,
     "live": false
   },
@@ -136,6 +122,20 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1793210400000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660424,
+    "team1": {
+      "name": "Entropy Gaming"
+    },
+    "team2": {
+      "name": "Reveal"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1793214000000,
     "stars": 3,
     "live": false
   }
