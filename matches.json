@@ -1,0 +1,142 @@
+[
+  {
+    "id": 660858,
+    "team1": {
+      "name": "Team Spirit"
+    },
+    "team2": {
+      "name": "TyLoo"
+    },
+    "event": "PGL Masters Bucharest 2026",
+    "format": "bo3",
+    "timeUtc": 1792915200000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660854,
+    "team1": {
+      "name": "FUT Esports"
+    },
+    "team2": {
+      "name": "Team Liquid"
+    },
+    "event": "PGL Masters Bucharest 2026",
+    "format": "bo3",
+    "timeUtc": 1792915200000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660856,
+    "team1": {
+      "name": "BetBoom Team"
+    },
+    "team2": {
+      "name": "Nemiga Gaming"
+    },
+    "event": "PGL Masters Bucharest 2026",
+    "format": "bo3",
+    "timeUtc": 1792926000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660855,
+    "team1": {
+      "name": "Team Vitality"
+    },
+    "team2": {
+      "name": "The MongolZ"
+    },
+    "event": "PGL Masters Bucharest 2026",
+    "format": "bo3",
+    "timeUtc": 1792926000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660859,
+    "team1": {
+      "name": "G2 Esports"
+    },
+    "team2": {
+      "name": "Aurora Gaming"
+    },
+    "event": "PGL Masters Bucharest 2026",
+    "format": "bo3",
+    "timeUtc": 1792936800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660860,
+    "team1": {
+      "name": "MOUZ"
+    },
+    "team2": {
+      "name": "9z Team"
+    },
+    "event": "PGL Masters Bucharest 2026",
+    "format": "bo3",
+    "timeUtc": 1792936800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660861,
+    "team1": {
+      "name": "Legacy"
+    },
+    "team2": {
+      "name": "DENDELE CS"
+    },
+    "event": "PGL Masters Bucharest 2026",
+    "format": "bo3",
+    "timeUtc": 1792947600000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660857,
+    "team1": {
+      "name": "FURIA Esports"
+    },
+    "team2": {
+      "name": "Natus Vincere"
+    },
+    "event": "PGL Masters Bucharest 2026",
+    "format": "bo3",
+    "timeUtc": 1792947600000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660390,
+    "team1": {
+      "name": "BIG Academy"
+    },
+    "team2": {
+      "name": "Sissi State Punks"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1793034000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660400,
+    "team1": {
+      "name": "Playing Ducks"
+    },
+    "team2": {
+      "name": "Regnum4Games"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1793041200000,
+    "stars": 3,
+    "live": false
+  }
+]
