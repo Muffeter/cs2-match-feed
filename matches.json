@@ -1,19 +1,5 @@
 [
   {
-    "id": 660869,
-    "team1": {
-      "name": "G2 Esports"
-    },
-    "team2": {
-      "name": "DENDELE CS"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793032226000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660400,
     "team1": {
       "name": "Playing Ducks"
@@ -136,6 +122,20 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1794153600000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660431,
+    "team1": {
+      "name": "Reveal"
+    },
+    "team2": {
+      "name": "BLUEJAYS.de"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1794164400000,
     "stars": 3,
     "live": false
   }
