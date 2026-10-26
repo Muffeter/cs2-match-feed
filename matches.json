@@ -14,16 +14,16 @@
     "live": false
   },
   {
-    "id": 660864,
+    "id": 660862,
     "team1": {
-      "name": "The MongolZ"
+      "name": "Team Vitality"
     },
     "team2": {
-      "name": "MOUZ"
+      "name": "FUT Esports"
     },
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
-    "timeUtc": 1793001600000,
+    "timeUtc": 1793010000000,
     "stars": 3,
     "live": false
   },
@@ -34,20 +34,6 @@
     },
     "team2": {
       "name": "TyLoo"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793012400000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660862,
-    "team1": {
-      "name": "Team Vitality"
-    },
-    "team2": {
-      "name": "FUT Esports"
     },
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
@@ -84,6 +70,20 @@
     "live": false
   },
   {
+    "id": 660390,
+    "team1": {
+      "name": "BIG Academy"
+    },
+    "team2": {
+      "name": "Sissi State Punks"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1793034000000,
+    "stars": 3,
+    "live": false
+  },
+  {
     "id": 660863,
     "team1": {
       "name": "BetBoom Team"
@@ -112,20 +112,6 @@
     "live": false
   },
   {
-    "id": 660390,
-    "team1": {
-      "name": "BIG Academy"
-    },
-    "team2": {
-      "name": "Sissi State Punks"
-    },
-    "event": "DACH CS Masters Season 6",
-    "format": "bo3",
-    "timeUtc": 1793034000000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660400,
     "team1": {
       "name": "Playing Ducks"
@@ -136,6 +122,20 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1793041200000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660410,
+    "team1": {
+      "name": "Team LEISURE"
+    },
+    "team2": {
+      "name": "BLUEJAYS.de"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1793210400000,
     "stars": 3,
     "live": false
   }
