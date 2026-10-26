@@ -1,19 +1,5 @@
 [
   {
-    "id": 660868,
-    "team1": {
-      "name": "9z Team"
-    },
-    "team2": {
-      "name": "TyLoo"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793011800000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660866,
     "team1": {
       "name": "Team Spirit"
@@ -136,6 +122,20 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1793638800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660430,
+    "team1": {
+      "name": "Pandaric eSports"
+    },
+    "team2": {
+      "name": "BLUEJAYS.de"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1793646000000,
     "stars": 3,
     "live": false
   }
