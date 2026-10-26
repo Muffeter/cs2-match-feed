@@ -1,19 +1,5 @@
 [
   {
-    "id": 660866,
-    "team1": {
-      "name": "Team Spirit"
-    },
-    "team2": {
-      "name": "FURIA Esports"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793022000000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660869,
     "team1": {
       "name": "G2 Esports"
@@ -136,6 +122,20 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1793811600000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660392,
+    "team1": {
+      "name": "BIG Academy"
+    },
+    "team2": {
+      "name": "Regnum4Games"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1793818800000,
     "stars": 3,
     "live": false
   }
