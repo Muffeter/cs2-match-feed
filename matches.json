@@ -28,20 +28,6 @@
     "live": false
   },
   {
-    "id": 660863,
-    "team1": {
-      "name": "BetBoom Team"
-    },
-    "team2": {
-      "name": "Natus Vincere"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793034000000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660400,
     "team1": {
       "name": "Playing Ducks"
@@ -132,6 +118,20 @@
     },
     "team2": {
       "name": "Regnum4Games"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1793818800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660417,
+    "team1": {
+      "name": "Sissi State Punks"
+    },
+    "team2": {
+      "name": "Entropy Gaming"
     },
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
