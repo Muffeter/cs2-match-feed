@@ -1,19 +1,5 @@
 [
   {
-    "id": 660400,
-    "team1": {
-      "name": "Playing Ducks"
-    },
-    "team2": {
-      "name": "Regnum4Games"
-    },
-    "event": "DACH CS Masters Season 6",
-    "format": "bo3",
-    "timeUtc": 1793041200000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660410,
     "team1": {
       "name": "Team LEISURE"
@@ -136,6 +122,20 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1794164400000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660404,
+    "team1": {
+      "name": "Team LEISURE"
+    },
+    "team2": {
+      "name": "Huskies Esports"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1794243600000,
     "stars": 3,
     "live": false
   }
