@@ -14,16 +14,16 @@
     "live": false
   },
   {
-    "id": 660867,
+    "id": 660869,
     "team1": {
-      "name": "Team Liquid"
+      "name": "G2 Esports"
     },
     "team2": {
-      "name": "Legacy"
+      "name": "DENDELE CS"
     },
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
-    "timeUtc": 1793023200000,
+    "timeUtc": 1793032226000,
     "stars": 3,
     "live": false
   },
@@ -48,20 +48,6 @@
     },
     "team2": {
       "name": "Natus Vincere"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793034000000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660869,
-    "team1": {
-      "name": "G2 Esports"
-    },
-    "team2": {
-      "name": "DENDELE CS"
     },
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
@@ -136,6 +122,20 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1793646000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660397,
+    "team1": {
+      "name": "Playing Ducks"
+    },
+    "team2": {
+      "name": "Huskies Esports"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1793811600000,
     "stars": 3,
     "live": false
   }
