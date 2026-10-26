@@ -1,19 +1,5 @@
 [
   {
-    "id": 660865,
-    "team1": {
-      "name": "Nemiga Gaming"
-    },
-    "team2": {
-      "name": "Aurora Gaming"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793001600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660862,
     "team1": {
       "name": "Team Vitality"
@@ -37,7 +23,7 @@
     },
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
-    "timeUtc": 1793012400000,
+    "timeUtc": 1793011800000,
     "stars": 3,
     "live": false
   },
@@ -136,6 +122,20 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1793210400000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660424,
+    "team1": {
+      "name": "Entropy Gaming"
+    },
+    "team2": {
+      "name": "Reveal"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1793214000000,
     "stars": 3,
     "live": false
   }
