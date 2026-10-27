@@ -42,20 +42,6 @@
     "live": false
   },
   {
-    "id": 660871,
-    "team1": {
-      "name": "Team Spirit"
-    },
-    "team2": {
-      "name": "MOUZ"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793109600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 663063,
     "team1": {
       "name": "Inner Circle Esports"
@@ -65,7 +51,21 @@
     },
     "event": "Stake Ranked Episode 6",
     "format": "bo3",
-    "timeUtc": 1793109600000,
+    "timeUtc": 1793110800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660871,
+    "team1": {
+      "name": "Team Spirit"
+    },
+    "team2": {
+      "name": "MOUZ"
+    },
+    "event": "PGL Masters Bucharest 2026",
+    "format": "bo3",
+    "timeUtc": 1793111400000,
     "stars": 3,
     "live": false
   },
