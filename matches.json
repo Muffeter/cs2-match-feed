@@ -1,13 +1,13 @@
 [
   {
-    "id": 660874,
+    "id": 663062,
     "team1": {
-      "name": "Nemiga Gaming"
+      "name": "BIG"
     },
     "team2": {
-      "name": "DENDELE CS"
+      "name": "Magic Esports"
     },
-    "event": "PGL Masters Bucharest 2026",
+    "event": "Stake Ranked Episode 6",
     "format": "bo3",
     "timeUtc": 1793098800000,
     "stars": 3,
@@ -28,20 +28,6 @@
     "live": false
   },
   {
-    "id": 663062,
-    "team1": {
-      "name": "BIG"
-    },
-    "team2": {
-      "name": "Magic Esports"
-    },
-    "event": "Stake Ranked Episode 6",
-    "format": "bo3",
-    "timeUtc": 1793098800000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 663063,
     "team1": {
       "name": "Inner Circle Esports"
@@ -56,12 +42,12 @@
     "live": false
   },
   {
-    "id": 660875,
+    "id": 660871,
     "team1": {
-      "name": "The MongolZ"
+      "name": "Team Spirit"
     },
     "team2": {
-      "name": "Legacy"
+      "name": "MOUZ"
     },
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
@@ -70,12 +56,12 @@
     "live": false
   },
   {
-    "id": 660871,
+    "id": 660875,
     "team1": {
-      "name": "Team Spirit"
+      "name": "The MongolZ"
     },
     "team2": {
-      "name": "MOUZ"
+      "name": "Legacy"
     },
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
@@ -136,6 +122,20 @@
     "event": "Stake Ranked Episode 6",
     "format": "bo3",
     "timeUtc": 1793125800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660410,
+    "team1": {
+      "name": "Team LEISURE"
+    },
+    "team2": {
+      "name": "BLUEJAYS.de"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1793210400000,
     "stars": 3,
     "live": false
   }
