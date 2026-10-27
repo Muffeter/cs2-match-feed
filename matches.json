@@ -1,33 +1,5 @@
 [
   {
-    "id": 660870,
-    "team1": {
-      "name": "Team Liquid"
-    },
-    "team2": {
-      "name": "Aurora Gaming"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793098800000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660875,
-    "team1": {
-      "name": "The MongolZ"
-    },
-    "team2": {
-      "name": "Legacy"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793106000000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 663063,
     "team1": {
       "name": "Inner Circle Esports"
@@ -136,6 +108,34 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1793214000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660644,
+    "team1": {
+      "name": "Aurora Gaming"
+    },
+    "team2": {
+      "name": "Team Liquid"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793602800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660642,
+    "team1": {
+      "name": "MOUZ"
+    },
+    "team2": {
+      "name": "TyLoo"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793602800000,
     "stars": 3,
     "live": false
   }
