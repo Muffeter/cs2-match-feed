@@ -1,19 +1,5 @@
 [
   {
-    "id": 662622,
-    "team1": {
-      "name": "Eternal Fire"
-    },
-    "team2": {
-      "name": "MIBR"
-    },
-    "event": "Stake Ranked Episode 5",
-    "format": "bo3",
-    "timeUtc": 1793124600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662627,
     "team1": {
       "name": "Astralis"
@@ -24,6 +10,20 @@
     "event": "Stake Ranked Episode 5",
     "format": "bo3",
     "timeUtc": 1793185200000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662628,
+    "team1": {
+      "name": "Team Nemesis"
+    },
+    "team2": {
+      "name": "Eternal Fire"
+    },
+    "event": "Stake Ranked Episode 5",
+    "format": "bo3",
+    "timeUtc": 1793194200000,
     "stars": 3,
     "live": false
   },
@@ -56,6 +56,20 @@
     "live": false
   },
   {
+    "id": 662624,
+    "team1": {
+      "name": "Inner Circle Esports"
+    },
+    "team2": {
+      "name": "MIBR"
+    },
+    "event": "Stake Ranked Episode 5",
+    "format": "bo3",
+    "timeUtc": 1793212200000,
+    "stars": 3,
+    "live": false
+  },
+  {
     "id": 660424,
     "team1": {
       "name": "Entropy Gaming"
@@ -66,34 +80,6 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1793214000000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660644,
-    "team1": {
-      "name": "Aurora Gaming"
-    },
-    "team2": {
-      "name": "Team Liquid"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1793602800000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660645,
-    "team1": {
-      "name": "PARIVISION"
-    },
-    "team2": {
-      "name": "G2 Esports"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1793602800000,
     "stars": 3,
     "live": false
   },
@@ -126,12 +112,26 @@
     "live": false
   },
   {
-    "id": 660632,
+    "id": 660645,
     "team1": {
-      "name": "FURIA Esports"
+      "name": "PARIVISION"
     },
     "team2": {
-      "name": "FaZe Clan"
+      "name": "G2 Esports"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793602800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660644,
+    "team1": {
+      "name": "Aurora Gaming"
+    },
+    "team2": {
+      "name": "Team Liquid"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
