@@ -1,15 +1,15 @@
 [
   {
-    "id": 660871,
+    "id": 662619,
     "team1": {
-      "name": "Team Spirit"
+      "name": "Astralis"
     },
     "team2": {
-      "name": "MOUZ"
+      "name": "Fnatic"
     },
-    "event": "PGL Masters Bucharest 2026",
+    "event": "Stake Ranked Episode 5",
     "format": "bo3",
-    "timeUtc": 1793111400000,
+    "timeUtc": 1793117700000,
     "stars": 3,
     "live": false
   },
@@ -28,20 +28,6 @@
     "live": false
   },
   {
-    "id": 662619,
-    "team1": {
-      "name": "Astralis"
-    },
-    "team2": {
-      "name": "Fnatic"
-    },
-    "event": "Stake Ranked Episode 5",
-    "format": "bo3",
-    "timeUtc": 1793117700000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660872,
     "team1": {
       "name": "Team Vitality"
@@ -51,7 +37,7 @@
     },
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
-    "timeUtc": 1793120400000,
+    "timeUtc": 1793123100000,
     "stars": 3,
     "live": false
   },
@@ -98,12 +84,12 @@
     "live": false
   },
   {
-    "id": 660644,
+    "id": 660643,
     "team1": {
-      "name": "Aurora Gaming"
+      "name": "9z Team"
     },
     "team2": {
-      "name": "Team Liquid"
+      "name": "BetBoom Team"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
@@ -126,12 +112,26 @@
     "live": false
   },
   {
-    "id": 660643,
+    "id": 660645,
     "team1": {
-      "name": "9z Team"
+      "name": "PARIVISION"
     },
     "team2": {
-      "name": "BetBoom Team"
+      "name": "G2 Esports"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793602800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660644,
+    "team1": {
+      "name": "Aurora Gaming"
+    },
+    "team2": {
+      "name": "Team Liquid"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
