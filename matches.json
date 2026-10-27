@@ -56,14 +56,14 @@
     "live": false
   },
   {
-    "id": 663064,
+    "id": 662622,
     "team1": {
       "name": "Eternal Fire"
     },
     "team2": {
       "name": "MIBR"
     },
-    "event": "Stake Ranked Episode 6",
+    "event": "Stake Ranked Episode 5",
     "format": "bo3",
     "timeUtc": 1793125800000,
     "stars": 3,
