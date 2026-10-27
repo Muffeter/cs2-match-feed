@@ -1,5 +1,61 @@
 [
   {
+    "id": 663062,
+    "team1": {
+      "name": "BIG"
+    },
+    "team2": {
+      "name": "Magic Esports"
+    },
+    "event": "Stake Ranked Episode 6",
+    "format": "bo3",
+    "timeUtc": 1793098800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663063,
+    "team1": {
+      "name": "Inner Circle Esports"
+    },
+    "team2": {
+      "name": "Team Nemesis"
+    },
+    "event": "Stake Ranked Episode 6",
+    "format": "bo3",
+    "timeUtc": 1793107800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663061,
+    "team1": {
+      "name": "Astralis"
+    },
+    "team2": {
+      "name": "Fnatic"
+    },
+    "event": "Stake Ranked Episode 6",
+    "format": "bo3",
+    "timeUtc": 1793116800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663064,
+    "team1": {
+      "name": "Eternal Fire"
+    },
+    "team2": {
+      "name": "MIBR"
+    },
+    "event": "Stake Ranked Episode 6",
+    "format": "bo3",
+    "timeUtc": 1793125800000,
+    "stars": 3,
+    "live": false
+  },
+  {
     "id": 660410,
     "team1": {
       "name": "Team LEISURE"
@@ -28,114 +84,58 @@
     "live": false
   },
   {
-    "id": 660409,
+    "id": 660643,
     "team1": {
-      "name": "Team LEISURE"
+      "name": "9z Team"
     },
     "team2": {
-      "name": "Reveal"
+      "name": "BetBoom Team"
     },
-    "event": "DACH CS Masters Season 6",
+    "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
-    "timeUtc": 1793638800000,
+    "timeUtc": 1793602800000,
     "stars": 3,
     "live": false
   },
   {
-    "id": 660430,
+    "id": 660642,
     "team1": {
-      "name": "Pandaric eSports"
+      "name": "MOUZ"
     },
     "team2": {
-      "name": "BLUEJAYS.de"
+      "name": "TyLoo"
     },
-    "event": "DACH CS Masters Season 6",
+    "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
-    "timeUtc": 1793646000000,
+    "timeUtc": 1793602800000,
     "stars": 3,
     "live": false
   },
   {
-    "id": 660397,
+    "id": 660645,
     "team1": {
-      "name": "Playing Ducks"
+      "name": "PARIVISION"
     },
     "team2": {
-      "name": "Huskies Esports"
+      "name": "G2 Esports"
     },
-    "event": "DACH CS Masters Season 6",
+    "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
-    "timeUtc": 1793811600000,
+    "timeUtc": 1793602800000,
     "stars": 3,
     "live": false
   },
   {
-    "id": 660392,
+    "id": 660644,
     "team1": {
-      "name": "BIG Academy"
+      "name": "Aurora Gaming"
     },
     "team2": {
-      "name": "Regnum4Games"
+      "name": "Team Liquid"
     },
-    "event": "DACH CS Masters Season 6",
+    "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
-    "timeUtc": 1793818800000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660417,
-    "team1": {
-      "name": "Sissi State Punks"
-    },
-    "team2": {
-      "name": "Entropy Gaming"
-    },
-    "event": "DACH CS Masters Season 6",
-    "format": "bo3",
-    "timeUtc": 1793818800000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660420,
-    "team1": {
-      "name": "Sissi State Punks"
-    },
-    "team2": {
-      "name": "Reveal"
-    },
-    "event": "DACH CS Masters Season 6",
-    "format": "bo3",
-    "timeUtc": 1794153600000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660431,
-    "team1": {
-      "name": "Reveal"
-    },
-    "team2": {
-      "name": "BLUEJAYS.de"
-    },
-    "event": "DACH CS Masters Season 6",
-    "format": "bo3",
-    "timeUtc": 1794164400000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660404,
-    "team1": {
-      "name": "Team LEISURE"
-    },
-    "team2": {
-      "name": "Huskies Esports"
-    },
-    "event": "DACH CS Masters Season 6",
-    "format": "bo3",
-    "timeUtc": 1794243600000,
+    "timeUtc": 1793602800000,
     "stars": 3,
     "live": false
   }
