@@ -1,19 +1,5 @@
 [
   {
-    "id": 663063,
-    "team1": {
-      "name": "Inner Circle Esports"
-    },
-    "team2": {
-      "name": "Team Nemesis"
-    },
-    "event": "Stake Ranked Episode 6",
-    "format": "bo3",
-    "timeUtc": 1793111400000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660871,
     "team1": {
       "name": "Team Spirit"
@@ -42,16 +28,16 @@
     "live": false
   },
   {
-    "id": 663061,
+    "id": 662619,
     "team1": {
       "name": "Astralis"
     },
     "team2": {
       "name": "Fnatic"
     },
-    "event": "Stake Ranked Episode 6",
+    "event": "Stake Ranked Episode 5",
     "format": "bo3",
-    "timeUtc": 1793118600000,
+    "timeUtc": 1793117700000,
     "stars": 3,
     "live": false
   },
@@ -132,6 +118,20 @@
     },
     "team2": {
       "name": "TyLoo"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793602800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660643,
+    "team1": {
+      "name": "9z Team"
+    },
+    "team2": {
+      "name": "BetBoom Team"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
