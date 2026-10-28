@@ -1,33 +1,5 @@
 [
   {
-    "id": 660410,
-    "team1": {
-      "name": "Team LEISURE"
-    },
-    "team2": {
-      "name": "BLUEJAYS.de"
-    },
-    "event": "DACH CS Masters Season 6",
-    "format": "bo3",
-    "timeUtc": 1793210400000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660424,
-    "team1": {
-      "name": "Entropy Gaming"
-    },
-    "team2": {
-      "name": "Reveal"
-    },
-    "event": "DACH CS Masters Season 6",
-    "format": "bo3",
-    "timeUtc": 1793214000000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662630,
     "team1": {
       "name": "BIG"
@@ -70,12 +42,12 @@
     "live": false
   },
   {
-    "id": 660633,
+    "id": 660630,
     "team1": {
-      "name": "Natus Vincere"
+      "name": "Legacy"
     },
     "team2": {
-      "name": "Team Falcons"
+      "name": "The MongolZ"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
@@ -126,12 +98,40 @@
     "live": false
   },
   {
-    "id": 660632,
+    "id": 660633,
     "team1": {
-      "name": "FURIA Esports"
+      "name": "Natus Vincere"
     },
     "team2": {
-      "name": "FaZe Clan"
+      "name": "Team Falcons"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793602800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660631,
+    "team1": {
+      "name": "Heroic"
+    },
+    "team2": {
+      "name": "B8"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793602800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660642,
+    "team1": {
+      "name": "MOUZ"
+    },
+    "team2": {
+      "name": "TyLoo"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
