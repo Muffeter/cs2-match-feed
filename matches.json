@@ -1,19 +1,5 @@
 [
   {
-    "id": 662627,
-    "team1": {
-      "name": "Astralis"
-    },
-    "team2": {
-      "name": "Magic Esports"
-    },
-    "event": "Stake Ranked Episode 5",
-    "format": "bo3",
-    "timeUtc": 1793185200000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660879,
     "team1": {
       "name": "Team Liquid"
@@ -132,6 +118,20 @@
     },
     "team2": {
       "name": "TyLoo"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793602800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660643,
+    "team1": {
+      "name": "9z Team"
+    },
+    "team2": {
+      "name": "BetBoom Team"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
