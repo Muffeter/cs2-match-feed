@@ -1,19 +1,5 @@
 [
   {
-    "id": 660879,
-    "team1": {
-      "name": "Team Liquid"
-    },
-    "team2": {
-      "name": "FURIA Esports"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793195100000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662628,
     "team1": {
       "name": "Team Nemesis"
@@ -28,6 +14,20 @@
     "live": false
   },
   {
+    "id": 660880,
+    "team1": {
+      "name": "Team Spirit"
+    },
+    "team2": {
+      "name": "Natus Vincere"
+    },
+    "event": "PGL Masters Bucharest 2026",
+    "format": "bo3",
+    "timeUtc": 1793203200000,
+    "stars": 3,
+    "live": false
+  },
+  {
     "id": 662623,
     "team1": {
       "name": "Fnatic"
@@ -38,20 +38,6 @@
     "event": "Stake Ranked Episode 5",
     "format": "bo3",
     "timeUtc": 1793203200000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660880,
-    "team1": {
-      "name": "Team Spirit"
-    },
-    "team2": {
-      "name": "Natus Vincere"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793206800000,
     "stars": 3,
     "live": false
   },
@@ -98,6 +84,34 @@
     "live": false
   },
   {
+    "id": 660643,
+    "team1": {
+      "name": "9z Team"
+    },
+    "team2": {
+      "name": "BetBoom Team"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793602800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660632,
+    "team1": {
+      "name": "FURIA Esports"
+    },
+    "team2": {
+      "name": "FaZe Clan"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793602800000,
+    "stars": 3,
+    "live": false
+  },
+  {
     "id": 660644,
     "team1": {
       "name": "Aurora Gaming"
@@ -112,26 +126,12 @@
     "live": false
   },
   {
-    "id": 660642,
+    "id": 660645,
     "team1": {
-      "name": "MOUZ"
+      "name": "PARIVISION"
     },
     "team2": {
-      "name": "TyLoo"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1793602800000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660643,
-    "team1": {
-      "name": "9z Team"
-    },
-    "team2": {
-      "name": "BetBoom Team"
+      "name": "G2 Esports"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
