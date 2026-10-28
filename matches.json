@@ -14,20 +14,6 @@
     "live": false
   },
   {
-    "id": 662628,
-    "team1": {
-      "name": "Team Nemesis"
-    },
-    "team2": {
-      "name": "Eternal Fire"
-    },
-    "event": "Stake Ranked Episode 5",
-    "format": "bo3",
-    "timeUtc": 1793194200000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660879,
     "team1": {
       "name": "Team Liquid"
@@ -36,6 +22,20 @@
       "name": "FURIA Esports"
     },
     "event": "PGL Masters Bucharest 2026",
+    "format": "bo3",
+    "timeUtc": 1793195100000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662628,
+    "team1": {
+      "name": "Team Nemesis"
+    },
+    "team2": {
+      "name": "Eternal Fire"
+    },
+    "event": "Stake Ranked Episode 5",
     "format": "bo3",
     "timeUtc": 1793196000000,
     "stars": 3,
