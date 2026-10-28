@@ -14,20 +14,6 @@
     "live": false
   },
   {
-    "id": 660878,
-    "team1": {
-      "name": "The MongolZ"
-    },
-    "team2": {
-      "name": "Nemiga Gaming"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793185200000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662628,
     "team1": {
       "name": "Team Nemesis"
@@ -122,6 +108,20 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1793214000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660644,
+    "team1": {
+      "name": "Aurora Gaming"
+    },
+    "team2": {
+      "name": "Team Liquid"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793602800000,
     "stars": 3,
     "live": false
   },
