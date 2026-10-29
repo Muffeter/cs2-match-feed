@@ -1,19 +1,5 @@
 [
   {
-    "id": 662629,
-    "team1": {
-      "name": "Inner Circle Esports"
-    },
-    "team2": {
-      "name": "Astralis"
-    },
-    "event": "Stake Ranked Episode 5",
-    "format": "bo3",
-    "timeUtc": 1793280000000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660881,
     "team1": {
       "name": "BetBoom Team"
@@ -70,12 +56,12 @@
     "live": false
   },
   {
-    "id": 660633,
+    "id": 660642,
     "team1": {
-      "name": "Natus Vincere"
+      "name": "MOUZ"
     },
     "team2": {
-      "name": "Team Falcons"
+      "name": "TyLoo"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
@@ -132,6 +118,20 @@
     },
     "team2": {
       "name": "FaZe Clan"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793602800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660630,
+    "team1": {
+      "name": "Legacy"
+    },
+    "team2": {
+      "name": "The MongolZ"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
