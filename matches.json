@@ -42,6 +42,20 @@
     "live": false
   },
   {
+    "id": 662631,
+    "team1": {
+      "name": "Astralis"
+    },
+    "team2": {
+      "name": "Eternal Fire"
+    },
+    "event": "Stake Ranked Episode 5",
+    "format": "bo3",
+    "timeUtc": 1793298600000,
+    "stars": 3,
+    "live": false
+  },
+  {
     "id": 660886,
     "team1": {
       "name": "Team Vitality"
@@ -56,12 +70,12 @@
     "live": false
   },
   {
-    "id": 660642,
+    "id": 660633,
     "team1": {
-      "name": "MOUZ"
+      "name": "Natus Vincere"
     },
     "team2": {
-      "name": "TyLoo"
+      "name": "Team Falcons"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
@@ -118,20 +132,6 @@
     },
     "team2": {
       "name": "FaZe Clan"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1793602800000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660630,
-    "team1": {
-      "name": "Legacy"
-    },
-    "team2": {
-      "name": "The MongolZ"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
