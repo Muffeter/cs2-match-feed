@@ -1,15 +1,15 @@
 [
   {
-    "id": 662630,
+    "id": 662629,
     "team1": {
-      "name": "BIG"
+      "name": "Inner Circle Esports"
     },
     "team2": {
-      "name": "Eternal Fire"
+      "name": "Astralis"
     },
     "event": "Stake Ranked Episode 5",
     "format": "bo3",
-    "timeUtc": 1793271600000,
+    "timeUtc": 1793280000000,
     "stars": 3,
     "live": false
   },
@@ -22,20 +22,6 @@
       "name": "MOUZ"
     },
     "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793280600000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 662629,
-    "team1": {
-      "name": "Inner Circle Esports"
-    },
-    "team2": {
-      "name": "Astralis"
-    },
-    "event": "Stake Ranked Episode 5",
     "format": "bo3",
     "timeUtc": 1793280600000,
     "stars": 3,
@@ -84,12 +70,12 @@
     "live": false
   },
   {
-    "id": 660643,
+    "id": 660633,
     "team1": {
-      "name": "9z Team"
+      "name": "Natus Vincere"
     },
     "team2": {
-      "name": "BetBoom Team"
+      "name": "Team Falcons"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
@@ -98,12 +84,12 @@
     "live": false
   },
   {
-    "id": 660632,
+    "id": 660645,
     "team1": {
-      "name": "FURIA Esports"
+      "name": "PARIVISION"
     },
     "team2": {
-      "name": "FaZe Clan"
+      "name": "G2 Esports"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
@@ -126,12 +112,26 @@
     "live": false
   },
   {
-    "id": 660645,
+    "id": 660643,
     "team1": {
-      "name": "PARIVISION"
+      "name": "9z Team"
     },
     "team2": {
-      "name": "G2 Esports"
+      "name": "BetBoom Team"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793602800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660632,
+    "team1": {
+      "name": "FURIA Esports"
+    },
+    "team2": {
+      "name": "FaZe Clan"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
