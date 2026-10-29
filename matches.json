@@ -1,19 +1,5 @@
 [
   {
-    "id": 662631,
-    "team1": {
-      "name": "Astralis"
-    },
-    "team2": {
-      "name": "Eternal Fire"
-    },
-    "event": "Stake Ranked Episode 5",
-    "format": "bo3",
-    "timeUtc": 1793298600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660886,
     "team1": {
       "name": "Team Vitality"
@@ -24,6 +10,20 @@
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
     "timeUtc": 1793361600000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662632,
+    "team1": {
+      "name": "MIBR"
+    },
+    "team2": {
+      "name": "Eternal Fire"
+    },
+    "event": "Stake Ranked Episode 5",
+    "format": "bo3",
+    "timeUtc": 1793365200000,
     "stars": 3,
     "live": false
   },
