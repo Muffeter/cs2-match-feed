@@ -1,19 +1,5 @@
 [
   {
-    "id": 660881,
-    "team1": {
-      "name": "BetBoom Team"
-    },
-    "team2": {
-      "name": "FURIA Esports"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793287257000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662625,
     "team1": {
       "name": "Fnatic"
@@ -52,6 +38,20 @@
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
     "timeUtc": 1793361600000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660885,
+    "team1": {
+      "name": "FURIA Esports"
+    },
+    "team2": {
+      "name": "MOUZ"
+    },
+    "event": "PGL Masters Bucharest 2026",
+    "format": "bo3",
+    "timeUtc": 1793372400000,
     "stars": 3,
     "live": false
   },
