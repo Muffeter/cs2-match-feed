@@ -1,19 +1,5 @@
 [
   {
-    "id": 660884,
-    "team1": {
-      "name": "FUT Esports"
-    },
-    "team2": {
-      "name": "Nemiga Gaming"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793260800000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660883,
     "team1": {
       "name": "Team Vitality"
@@ -23,7 +9,7 @@
     },
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
-    "timeUtc": 1793271600000,
+    "timeUtc": 1793268900000,
     "stars": 3,
     "live": false
   },
@@ -98,6 +84,34 @@
     "live": false
   },
   {
+    "id": 660643,
+    "team1": {
+      "name": "9z Team"
+    },
+    "team2": {
+      "name": "BetBoom Team"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793602800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660632,
+    "team1": {
+      "name": "FURIA Esports"
+    },
+    "team2": {
+      "name": "FaZe Clan"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793602800000,
+    "stars": 3,
+    "live": false
+  },
+  {
     "id": 660644,
     "team1": {
       "name": "Aurora Gaming"
@@ -112,26 +126,12 @@
     "live": false
   },
   {
-    "id": 660642,
+    "id": 660645,
     "team1": {
-      "name": "MOUZ"
+      "name": "PARIVISION"
     },
     "team2": {
-      "name": "TyLoo"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1793602800000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660643,
-    "team1": {
-      "name": "9z Team"
-    },
-    "team2": {
-      "name": "BetBoom Team"
+      "name": "G2 Esports"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
