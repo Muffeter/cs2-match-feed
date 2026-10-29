@@ -1,19 +1,5 @@
 [
   {
-    "id": 660883,
-    "team1": {
-      "name": "Team Vitality"
-    },
-    "team2": {
-      "name": "Natus Vincere"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793268900000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662630,
     "team1": {
       "name": "BIG"
@@ -28,6 +14,20 @@
     "live": false
   },
   {
+    "id": 660882,
+    "team1": {
+      "name": "Aurora Gaming"
+    },
+    "team2": {
+      "name": "MOUZ"
+    },
+    "event": "PGL Masters Bucharest 2026",
+    "format": "bo3",
+    "timeUtc": 1793280600000,
+    "stars": 3,
+    "live": false
+  },
+  {
     "id": 662629,
     "team1": {
       "name": "Inner Circle Esports"
@@ -38,20 +38,6 @@
     "event": "Stake Ranked Episode 5",
     "format": "bo3",
     "timeUtc": 1793280600000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660882,
-    "team1": {
-      "name": "Aurora Gaming"
-    },
-    "team2": {
-      "name": "MOUZ"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793282400000,
     "stars": 3,
     "live": false
   },
@@ -80,6 +66,20 @@
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
     "timeUtc": 1793293200000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660886,
+    "team1": {
+      "name": "Team Vitality"
+    },
+    "team2": {
+      "name": "Nemiga Gaming"
+    },
+    "event": "PGL Masters Bucharest 2026",
+    "format": "bo3",
+    "timeUtc": 1793361600000,
     "stars": 3,
     "live": false
   },
