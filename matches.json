@@ -1,19 +1,5 @@
 [
   {
-    "id": 660886,
-    "team1": {
-      "name": "Team Vitality"
-    },
-    "team2": {
-      "name": "Nemiga Gaming"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793361600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662632,
     "team1": {
       "name": "MIBR"
@@ -42,12 +28,12 @@
     "live": false
   },
   {
-    "id": 660630,
+    "id": 660631,
     "team1": {
-      "name": "Legacy"
+      "name": "Heroic"
     },
     "team2": {
-      "name": "The MongolZ"
+      "name": "B8"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
@@ -112,12 +98,12 @@
     "live": false
   },
   {
-    "id": 660631,
+    "id": 660630,
     "team1": {
-      "name": "Heroic"
+      "name": "Legacy"
     },
     "team2": {
-      "name": "B8"
+      "name": "The MongolZ"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
@@ -132,6 +118,20 @@
     },
     "team2": {
       "name": "TyLoo"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793602800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660632,
+    "team1": {
+      "name": "FURIA Esports"
+    },
+    "team2": {
+      "name": "FaZe Clan"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
