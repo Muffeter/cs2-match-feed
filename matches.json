@@ -1,19 +1,5 @@
 [
   {
-    "id": 662632,
-    "team1": {
-      "name": "MIBR"
-    },
-    "team2": {
-      "name": "Eternal Fire"
-    },
-    "event": "Stake Ranked Episode 5",
-    "format": "bo3",
-    "timeUtc": 1793365200000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660885,
     "team1": {
       "name": "FURIA Esports"
@@ -24,6 +10,20 @@
     "event": "PGL Masters Bucharest 2026",
     "format": "bo3",
     "timeUtc": 1793372400000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662626,
+    "team1": {
+      "name": "Fnatic"
+    },
+    "team2": {
+      "name": "Eternal Fire"
+    },
+    "event": "Stake Ranked Episode 5",
+    "format": "bo3",
+    "timeUtc": 1793377800000,
     "stars": 3,
     "live": false
   },
