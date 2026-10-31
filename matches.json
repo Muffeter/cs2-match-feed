@@ -1,19 +1,5 @@
 [
   {
-    "id": 660888,
-    "team1": {
-      "name": "MOUZ"
-    },
-    "team2": {
-      "name": "Team Vitality"
-    },
-    "event": "PGL Masters Bucharest 2026",
-    "format": "bo3",
-    "timeUtc": 1793433600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660887,
     "team1": {
       "name": "FURIA Esports"
@@ -28,12 +14,12 @@
     "live": false
   },
   {
-    "id": 660631,
+    "id": 660643,
     "team1": {
-      "name": "Heroic"
+      "name": "9z Team"
     },
     "team2": {
-      "name": "B8"
+      "name": "BetBoom Team"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
@@ -70,12 +56,12 @@
     "live": false
   },
   {
-    "id": 660643,
+    "id": 660642,
     "team1": {
-      "name": "9z Team"
+      "name": "MOUZ"
     },
     "team2": {
-      "name": "BetBoom Team"
+      "name": "TyLoo"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
@@ -84,12 +70,12 @@
     "live": false
   },
   {
-    "id": 660633,
+    "id": 660631,
     "team1": {
-      "name": "Natus Vincere"
+      "name": "Heroic"
     },
     "team2": {
-      "name": "Team Falcons"
+      "name": "B8"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
@@ -112,12 +98,12 @@
     "live": false
   },
   {
-    "id": 660642,
+    "id": 660633,
     "team1": {
-      "name": "MOUZ"
+      "name": "Natus Vincere"
     },
     "team2": {
-      "name": "TyLoo"
+      "name": "Team Falcons"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
@@ -136,6 +122,20 @@
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
     "timeUtc": 1793602800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660409,
+    "team1": {
+      "name": "Team LEISURE"
+    },
+    "team2": {
+      "name": "Reveal"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1793638800000,
     "stars": 3,
     "live": false
   }
