@@ -1,19 +1,5 @@
 [
   {
-    "id": 660644,
-    "team1": {
-      "name": "Aurora Gaming"
-    },
-    "team2": {
-      "name": "Team Liquid"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1793593800000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660645,
     "team1": {
       "name": "PARIVISION"
@@ -132,6 +118,20 @@
     },
     "team2": {
       "name": "Entropy Gaming"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1793818800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660392,
+    "team1": {
+      "name": "BIG Academy"
+    },
+    "team2": {
+      "name": "Regnum4Games"
     },
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
