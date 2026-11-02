@@ -14,6 +14,20 @@
     "live": false
   },
   {
+    "id": 660643,
+    "team1": {
+      "name": "9z Team"
+    },
+    "team2": {
+      "name": "BetBoom Team"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793602800000,
+    "stars": 3,
+    "live": false
+  },
+  {
     "id": 660632,
     "team1": {
       "name": "FURIA Esports"
@@ -23,7 +37,7 @@
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
-    "timeUtc": 1793602800000,
+    "timeUtc": 1793606400000,
     "stars": 3,
     "live": false
   },
@@ -37,7 +51,7 @@
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
-    "timeUtc": 1793602800000,
+    "timeUtc": 1793611800000,
     "stars": 3,
     "live": false
   },
@@ -51,21 +65,7 @@
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
-    "timeUtc": 1793602800000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660643,
-    "team1": {
-      "name": "9z Team"
-    },
-    "team2": {
-      "name": "BetBoom Team"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1793602800000,
+    "timeUtc": 1793611800000,
     "stars": 3,
     "live": false
   },
