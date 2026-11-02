@@ -1,19 +1,5 @@
 [
   {
-    "id": 660645,
-    "team1": {
-      "name": "PARIVISION"
-    },
-    "team2": {
-      "name": "G2 Esports"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1793597400000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660643,
     "team1": {
       "name": "9z Team"
@@ -136,6 +122,20 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1794153600000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660431,
+    "team1": {
+      "name": "Reveal"
+    },
+    "team2": {
+      "name": "BLUEJAYS.de"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1794164400000,
     "stars": 3,
     "live": false
   }
