@@ -1,19 +1,5 @@
 [
   {
-    "id": 660632,
-    "team1": {
-      "name": "FURIA Esports"
-    },
-    "team2": {
-      "name": "FaZe Clan"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1793609400000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660642,
     "team1": {
       "name": "MOUZ"
@@ -136,6 +122,20 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1794243600000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660414,
+    "team1": {
+      "name": "Huskies Esports"
+    },
+    "team2": {
+      "name": "Pandaric eSports"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1794250800000,
     "stars": 3,
     "live": false
   }
