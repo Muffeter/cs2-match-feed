@@ -23,21 +23,7 @@
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
-    "timeUtc": 1793609100000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660633,
-    "team1": {
-      "name": "Natus Vincere"
-    },
-    "team2": {
-      "name": "Team Falcons"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1793611800000,
+    "timeUtc": 1793609400000,
     "stars": 3,
     "live": false
   },
@@ -51,7 +37,21 @@
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
-    "timeUtc": 1793611800000,
+    "timeUtc": 1793614800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660633,
+    "team1": {
+      "name": "Natus Vincere"
+    },
+    "team2": {
+      "name": "Team Falcons"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793617200000,
     "stars": 3,
     "live": false
   },
