@@ -1,19 +1,5 @@
 [
   {
-    "id": 660642,
-    "team1": {
-      "name": "MOUZ"
-    },
-    "team2": {
-      "name": "TyLoo"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1793614800000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660633,
     "team1": {
       "name": "Natus Vincere"
@@ -136,6 +122,20 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1794250800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662740,
+    "team1": {
+      "name": "Legacy"
+    },
+    "team2": {
+      "name": "FURIA Esports"
+    },
+    "event": "BLAST Rivals Fall 2026",
+    "format": "bo3",
+    "timeUtc": 1794366000000,
     "stars": 3,
     "live": false
   }
