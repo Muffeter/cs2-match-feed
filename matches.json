@@ -70,16 +70,16 @@
     "live": false
   },
   {
-    "id": 660409,
+    "id": 660397,
     "team1": {
-      "name": "Team LEISURE"
+      "name": "Playing Ducks"
     },
     "team2": {
-      "name": "Reveal"
+      "name": "Huskies Esports"
     },
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
-    "timeUtc": 1793638800000,
+    "timeUtc": 1793646000000,
     "stars": 3,
     "live": false
   },
@@ -98,16 +98,16 @@
     "live": false
   },
   {
-    "id": 660397,
+    "id": 660392,
     "team1": {
-      "name": "Playing Ducks"
+      "name": "BIG Academy"
     },
     "team2": {
-      "name": "Huskies Esports"
+      "name": "Regnum4Games"
     },
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
-    "timeUtc": 1793811600000,
+    "timeUtc": 1793818800000,
     "stars": 3,
     "live": false
   },
@@ -126,16 +126,16 @@
     "live": false
   },
   {
-    "id": 660392,
+    "id": 660420,
     "team1": {
-      "name": "BIG Academy"
+      "name": "Sissi State Punks"
     },
     "team2": {
-      "name": "Regnum4Games"
+      "name": "Reveal"
     },
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
-    "timeUtc": 1793818800000,
+    "timeUtc": 1794153600000,
     "stars": 3,
     "live": false
   }
