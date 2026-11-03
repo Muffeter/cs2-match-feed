@@ -1,15 +1,15 @@
 [
   {
-    "id": 660637,
+    "id": 660652,
     "team1": {
-      "name": "Legacy"
+      "name": "BetBoom Team"
     },
     "team2": {
-      "name": "B8"
+      "name": "Aurora Gaming"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
-    "timeUtc": 1793703600000,
+    "timeUtc": 1793757600000,
     "stars": 3,
     "live": false
   },
@@ -28,16 +28,16 @@
     "live": false
   },
   {
-    "id": 660652,
+    "id": 660639,
     "team1": {
-      "name": "BetBoom Team"
+      "name": "Natus Vincere"
     },
     "team2": {
-      "name": "Aurora Gaming"
+      "name": "B8"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
-    "timeUtc": 1793757600000,
+    "timeUtc": 1793766600000,
     "stars": 3,
     "live": false
   },
