@@ -14,20 +14,6 @@
     "live": false
   },
   {
-    "id": 660634,
-    "team1": {
-      "name": "The MongolZ"
-    },
-    "team2": {
-      "name": "Heroic"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1793689200000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660638,
     "team1": {
       "name": "FaZe Clan"
@@ -38,6 +24,20 @@
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
     "timeUtc": 1793689200000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660634,
+    "team1": {
+      "name": "The MongolZ"
+    },
+    "team2": {
+      "name": "Heroic"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793692800000,
     "stars": 3,
     "live": false
   },
