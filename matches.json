@@ -14,20 +14,6 @@
     "live": false
   },
   {
-    "id": 660646,
-    "team1": {
-      "name": "MOUZ"
-    },
-    "team2": {
-      "name": "BetBoom Team"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1793680200000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660649,
     "team1": {
       "name": "TyLoo"
@@ -38,6 +24,20 @@
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
     "timeUtc": 1793680200000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660646,
+    "team1": {
+      "name": "MOUZ"
+    },
+    "team2": {
+      "name": "BetBoom Team"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793683800000,
     "stars": 3,
     "live": false
   },
