@@ -14,20 +14,6 @@
     "live": false
   },
   {
-    "id": 660647,
-    "team1": {
-      "name": "Team Liquid"
-    },
-    "team2": {
-      "name": "PARIVISION"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1793671200000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660646,
     "team1": {
       "name": "MOUZ"
@@ -112,6 +98,20 @@
     "live": false
   },
   {
+    "id": 660392,
+    "team1": {
+      "name": "BIG Academy"
+    },
+    "team2": {
+      "name": "Regnum4Games"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1793818800000,
+    "stars": 3,
+    "live": false
+  },
+  {
     "id": 660417,
     "team1": {
       "name": "Sissi State Punks"
@@ -126,16 +126,16 @@
     "live": false
   },
   {
-    "id": 660392,
+    "id": 660420,
     "team1": {
-      "name": "BIG Academy"
+      "name": "Sissi State Punks"
     },
     "team2": {
-      "name": "Regnum4Games"
+      "name": "Reveal"
     },
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
-    "timeUtc": 1793818800000,
+    "timeUtc": 1794153600000,
     "stars": 3,
     "live": false
   }
