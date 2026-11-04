@@ -1,19 +1,5 @@
 [
   {
-    "id": 660652,
-    "team1": {
-      "name": "BetBoom Team"
-    },
-    "team2": {
-      "name": "Aurora Gaming"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1793757600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660639,
     "team1": {
       "name": "Natus Vincere"
@@ -48,6 +34,20 @@
     },
     "team2": {
       "name": "PARIVISION"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793775600000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660653,
+    "team1": {
+      "name": "Team Liquid"
+    },
+    "team2": {
+      "name": "BetBoom Team"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
