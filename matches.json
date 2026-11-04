@@ -1,33 +1,5 @@
 [
   {
-    "id": 660392,
-    "team1": {
-      "name": "BIG Academy"
-    },
-    "team2": {
-      "name": "Regnum4Games"
-    },
-    "event": "DACH CS Masters Season 6",
-    "format": "bo3",
-    "timeUtc": 1793818800000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660417,
-    "team1": {
-      "name": "Sissi State Punks"
-    },
-    "team2": {
-      "name": "Entropy Gaming"
-    },
-    "event": "DACH CS Masters Season 6",
-    "format": "bo3",
-    "timeUtc": 1793818800000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660654,
     "team1": {
       "name": "PARIVISION"
@@ -136,6 +108,34 @@
     "event": "BLAST Rivals Fall 2026",
     "format": "bo3",
     "timeUtc": 1794375000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662744,
+    "team1": {
+      "name": "Team Spirit"
+    },
+    "team2": {
+      "name": "FUT Esports"
+    },
+    "event": "BLAST Rivals Fall 2026",
+    "format": "bo3",
+    "timeUtc": 1794384000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662745,
+    "team1": {
+      "name": "MOUZ"
+    },
+    "team2": {
+      "name": "G2 Esports"
+    },
+    "event": "BLAST Rivals Fall 2026",
+    "format": "bo3",
+    "timeUtc": 1794393000000,
     "stars": 3,
     "live": false
   }
