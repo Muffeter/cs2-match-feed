@@ -1,33 +1,5 @@
 [
   {
-    "id": 660639,
-    "team1": {
-      "name": "Natus Vincere"
-    },
-    "team2": {
-      "name": "B8"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1793766600000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660640,
-    "team1": {
-      "name": "Heroic"
-    },
-    "team2": {
-      "name": "Team Falcons"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1793766600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660648,
     "team1": {
       "name": "MOUZ"
@@ -62,6 +34,20 @@
     },
     "team2": {
       "name": "FURIA Esports"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1793784600000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660641,
+    "team1": {
+      "name": "Natus Vincere"
+    },
+    "team2": {
+      "name": "Team Falcons"
     },
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
@@ -136,6 +122,20 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1794243600000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660414,
+    "team1": {
+      "name": "Huskies Esports"
+    },
+    "team2": {
+      "name": "Pandaric eSports"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1794250800000,
     "stars": 3,
     "live": false
   }
