@@ -1,19 +1,5 @@
 [
   {
-    "id": 663610,
-    "team1": {
-      "name": "SINNERS Esports"
-    },
-    "team2": {
-      "name": "Eternal Fire"
-    },
-    "event": "Draculan Season 7",
-    "format": "bo3",
-    "timeUtc": 1792781400000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660654,
     "team1": {
       "name": "PARIVISION"
@@ -136,6 +122,20 @@
     "event": "BLAST Rivals Fall 2026",
     "format": "bo3",
     "timeUtc": 1794384000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662745,
+    "team1": {
+      "name": "MOUZ"
+    },
+    "team2": {
+      "name": "G2 Esports"
+    },
+    "event": "BLAST Rivals Fall 2026",
+    "format": "bo3",
+    "timeUtc": 1794393000000,
     "stars": 3,
     "live": false
   }
