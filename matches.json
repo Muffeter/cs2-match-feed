@@ -1,19 +1,5 @@
 [
   {
-    "id": 660654,
-    "team1": {
-      "name": "PARIVISION"
-    },
-    "team2": {
-      "name": "Natus Vincere"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1793946600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660655,
     "team1": {
       "name": "FURIA Esports"
@@ -24,6 +10,20 @@
     "event": "Intel Extreme Masters Beijing 2026",
     "format": "bo3",
     "timeUtc": 1793958300000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660656,
+    "team1": {
+      "name": "The MongolZ"
+    },
+    "team2": {
+      "name": "Natus Vincere"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1794033000000,
     "stars": 3,
     "live": false
   },
