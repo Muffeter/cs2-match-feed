@@ -1,89 +1,5 @@
 [
   {
-    "id": 663659,
-    "team1": {
-      "name": "FOKUS"
-    },
-    "team2": {
-      "name": "ex-6666 Esports"
-    },
-    "event": "NODWIN Clutch Series #13",
-    "format": "bo3",
-    "timeUtc": 1792828800000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 663653,
-    "team1": {
-      "name": "Team Nemesis"
-    },
-    "team2": {
-      "name": "mellren"
-    },
-    "event": "NODWIN Clutch Series #13",
-    "format": "bo3",
-    "timeUtc": 1792839600000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 663657,
-    "team1": {
-      "name": "Nuclear TigeRES"
-    },
-    "team2": {
-      "name": "FORZE Reload"
-    },
-    "event": "NODWIN Clutch Series #13",
-    "format": "bo3",
-    "timeUtc": 1792850400000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 663654,
-    "team1": {
-      "name": "INOX Division"
-    },
-    "team2": {
-      "name": "Team ACES"
-    },
-    "event": "NODWIN Clutch Series #13",
-    "format": "bo3",
-    "timeUtc": 1792861200000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 663658,
-    "team1": {
-      "name": "Acend"
-    },
-    "team2": {
-      "name": "UNITY Esports"
-    },
-    "event": "NODWIN Clutch Series #13",
-    "format": "bo3",
-    "timeUtc": 1792918800000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 663655,
-    "team1": {
-      "name": "Metizport"
-    },
-    "team2": {
-      "name": "BakS eSports"
-    },
-    "event": "NODWIN Clutch Series #13",
-    "format": "bo3",
-    "timeUtc": 1792929600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 663660,
     "team1": {
       "name": "Color"
@@ -136,6 +52,90 @@
     "event": "NODWIN Clutch Series #13",
     "format": "bo3",
     "timeUtc": 1793026800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663663,
+    "team1": {
+      "name": "Nuclear TigeRES"
+    },
+    "team2": {
+      "name": "UNITY Esports"
+    },
+    "event": "NODWIN Clutch Series #13",
+    "format": "bo3",
+    "timeUtc": 1793037600000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663665,
+    "team1": {
+      "name": "Team Nemesis"
+    },
+    "team2": {
+      "name": "BRUTE"
+    },
+    "event": "NODWIN Clutch Series #13",
+    "format": "bo3",
+    "timeUtc": 1793091600000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663666,
+    "team1": {
+      "name": "Nuclear TigeRES"
+    },
+    "team2": {
+      "name": "FOKUS"
+    },
+    "event": "NODWIN Clutch Series #13",
+    "format": "bo3",
+    "timeUtc": 1793102400000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663667,
+    "team1": {
+      "name": "BRUTE"
+    },
+    "team2": {
+      "name": "FOKUS"
+    },
+    "event": "NODWIN Clutch Series #13",
+    "format": "bo3",
+    "timeUtc": 1793113200000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660656,
+    "team1": {
+      "name": "The MongolZ"
+    },
+    "team2": {
+      "name": "Natus Vincere"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1794033000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 660657,
+    "team1": {
+      "name": "MOUZ"
+    },
+    "team2": {
+      "name": "BetBoom Team"
+    },
+    "event": "Intel Extreme Masters Beijing 2026",
+    "format": "bo3",
+    "timeUtc": 1794044700000,
     "stars": 3,
     "live": false
   }
