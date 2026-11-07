@@ -1,141 +1,141 @@
 [
   {
-    "id": 660656,
+    "id": 663659,
     "team1": {
-      "name": "The MongolZ"
+      "name": "FOKUS"
     },
     "team2": {
-      "name": "Natus Vincere"
+      "name": "ex-6666 Esports"
     },
-    "event": "Intel Extreme Masters Beijing 2026",
+    "event": "NODWIN Clutch Series #13",
     "format": "bo3",
-    "timeUtc": 1794033000000,
+    "timeUtc": 1792828800000,
     "stars": 3,
     "live": false
   },
   {
-    "id": 660657,
+    "id": 663653,
     "team1": {
-      "name": "MOUZ"
+      "name": "Team Nemesis"
     },
     "team2": {
-      "name": "BetBoom Team"
+      "name": "mellren"
     },
-    "event": "Intel Extreme Masters Beijing 2026",
+    "event": "NODWIN Clutch Series #13",
     "format": "bo3",
-    "timeUtc": 1794044700000,
+    "timeUtc": 1792839600000,
     "stars": 3,
     "live": false
   },
   {
-    "id": 660420,
+    "id": 663657,
     "team1": {
-      "name": "Sissi State Punks"
+      "name": "Nuclear TigeRES"
     },
     "team2": {
-      "name": "Reveal"
+      "name": "FORZE Reload"
     },
-    "event": "DACH CS Masters Season 6",
+    "event": "NODWIN Clutch Series #13",
     "format": "bo3",
-    "timeUtc": 1794153600000,
+    "timeUtc": 1792850400000,
     "stars": 3,
     "live": false
   },
   {
-    "id": 660431,
+    "id": 663654,
     "team1": {
-      "name": "Reveal"
+      "name": "INOX Division"
     },
     "team2": {
-      "name": "BLUEJAYS.de"
+      "name": "Team ACES"
     },
-    "event": "DACH CS Masters Season 6",
+    "event": "NODWIN Clutch Series #13",
     "format": "bo3",
-    "timeUtc": 1794164400000,
+    "timeUtc": 1792861200000,
     "stars": 3,
     "live": false
   },
   {
-    "id": 660404,
+    "id": 663658,
     "team1": {
-      "name": "Team LEISURE"
+      "name": "Acend"
     },
     "team2": {
-      "name": "Huskies Esports"
+      "name": "UNITY Esports"
     },
-    "event": "DACH CS Masters Season 6",
+    "event": "NODWIN Clutch Series #13",
     "format": "bo3",
-    "timeUtc": 1794243600000,
+    "timeUtc": 1792918800000,
     "stars": 3,
     "live": false
   },
   {
-    "id": 660414,
+    "id": 663655,
     "team1": {
-      "name": "Huskies Esports"
+      "name": "Metizport"
     },
     "team2": {
-      "name": "Pandaric eSports"
+      "name": "BakS eSports"
     },
-    "event": "DACH CS Masters Season 6",
+    "event": "NODWIN Clutch Series #13",
     "format": "bo3",
-    "timeUtc": 1794250800000,
+    "timeUtc": 1792929600000,
     "stars": 3,
     "live": false
   },
   {
-    "id": 662740,
+    "id": 663660,
     "team1": {
-      "name": "Legacy"
+      "name": "Color"
     },
     "team2": {
-      "name": "FURIA Esports"
+      "name": "ex-Zero Tenacity"
     },
-    "event": "BLAST Rivals Fall 2026",
+    "event": "NODWIN Clutch Series #13",
     "format": "bo3",
-    "timeUtc": 1794366000000,
+    "timeUtc": 1792951200000,
     "stars": 3,
     "live": false
   },
   {
-    "id": 662741,
+    "id": 663661,
     "team1": {
-      "name": "Team Vitality"
+      "name": "Team Nemesis"
     },
     "team2": {
-      "name": "Team Falcons"
+      "name": "INOX Division"
     },
-    "event": "BLAST Rivals Fall 2026",
+    "event": "NODWIN Clutch Series #13",
     "format": "bo3",
-    "timeUtc": 1794375000000,
+    "timeUtc": 1793005200000,
     "stars": 3,
     "live": false
   },
   {
-    "id": 662744,
+    "id": 663664,
     "team1": {
-      "name": "Team Spirit"
+      "name": "FOKUS"
     },
     "team2": {
-      "name": "FUT Esports"
+      "name": "ex-Zero Tenacity"
     },
-    "event": "BLAST Rivals Fall 2026",
+    "event": "NODWIN Clutch Series #13",
     "format": "bo3",
-    "timeUtc": 1794384000000,
+    "timeUtc": 1793016000000,
     "stars": 3,
     "live": false
   },
   {
-    "id": 662745,
+    "id": 663662,
     "team1": {
-      "name": "MOUZ"
+      "name": "Metizport"
     },
     "team2": {
-      "name": "G2 Esports"
+      "name": "BRUTE"
     },
-    "event": "BLAST Rivals Fall 2026",
+    "event": "NODWIN Clutch Series #13",
     "format": "bo3",
-    "timeUtc": 1794393000000,
+    "timeUtc": 1793026800000,
     "stars": 3,
     "live": false
   }
