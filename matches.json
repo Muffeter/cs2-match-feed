@@ -1,19 +1,5 @@
 [
   {
-    "id": 660658,
-    "team1": {
-      "name": "The MongolZ"
-    },
-    "team2": {
-      "name": "MOUZ"
-    },
-    "event": "Intel Extreme Masters Beijing 2026",
-    "format": "bo3",
-    "timeUtc": 1794123000000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660404,
     "team1": {
       "name": "Team LEISURE"
@@ -136,6 +122,20 @@
     "event": "Stake Ranked Episode 6",
     "format": "bo3",
     "timeUtc": 1794922200000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663061,
+    "team1": {
+      "name": "Ninjas in Pyjamas"
+    },
+    "team2": {
+      "name": "UNITY Esports"
+    },
+    "event": "Stake Ranked Episode 6",
+    "format": "bo3",
+    "timeUtc": 1794931200000,
     "stars": 3,
     "live": false
   }
