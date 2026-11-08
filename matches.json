@@ -14,34 +14,6 @@
     "live": false
   },
   {
-    "id": 660420,
-    "team1": {
-      "name": "Sissi State Punks"
-    },
-    "team2": {
-      "name": "Reveal"
-    },
-    "event": "DACH CS Masters Season 6",
-    "format": "bo3",
-    "timeUtc": 1794153600000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 660431,
-    "team1": {
-      "name": "Reveal"
-    },
-    "team2": {
-      "name": "BLUEJAYS.de"
-    },
-    "event": "DACH CS Masters Season 6",
-    "format": "bo3",
-    "timeUtc": 1794164400000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 660404,
     "team1": {
       "name": "Team LEISURE"
@@ -136,6 +108,34 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1794416400000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663064,
+    "team1": {
+      "name": "Betclic Apogee Esports"
+    },
+    "team2": {
+      "name": "Inner Circle Esports"
+    },
+    "event": "Stake Ranked Episode 6",
+    "format": "bo3",
+    "timeUtc": 1794915000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663321,
+    "team1": {
+      "name": "BIG"
+    },
+    "team2": {
+      "name": "Sangal Esports"
+    },
+    "event": "Stake Ranked Episode 6",
+    "format": "bo3",
+    "timeUtc": 1794922200000,
     "stars": 3,
     "live": false
   }
