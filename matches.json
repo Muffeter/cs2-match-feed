@@ -1,47 +1,5 @@
 [
   {
-    "id": 663756,
-    "team1": {
-      "name": "prodigy"
-    },
-    "team2": {
-      "name": "Monte"
-    },
-    "event": "CCT Europe 2026 Contenders",
-    "format": "bo3",
-    "timeUtc": 1793464200000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 663757,
-    "team1": {
-      "name": "prodigy"
-    },
-    "team2": {
-      "name": "Ducks"
-    },
-    "event": "CCT Europe 2026 Contenders",
-    "format": "bo3",
-    "timeUtc": 1793550600000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 663758,
-    "team1": {
-      "name": "Monte"
-    },
-    "team2": {
-      "name": "prodigy"
-    },
-    "event": "CCT Europe 2026 Contenders",
-    "format": "bo3",
-    "timeUtc": 1793563200000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662740,
     "team1": {
       "name": "Legacy"
@@ -136,6 +94,34 @@
     "event": "Stake Ranked Episode 6",
     "format": "bo3",
     "timeUtc": 1794922200000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663061,
+    "team1": {
+      "name": "Ninjas in Pyjamas"
+    },
+    "team2": {
+      "name": "UNITY Esports"
+    },
+    "event": "Stake Ranked Episode 6",
+    "format": "bo3",
+    "timeUtc": 1794931200000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663320,
+    "team1": {
+      "name": "Luminosity Gaming"
+    },
+    "team2": {
+      "name": "GamerLegion"
+    },
+    "event": "Stake Ranked Episode 6",
+    "format": "bo3",
+    "timeUtc": 1794940200000,
     "stars": 3,
     "live": false
   }
