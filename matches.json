@@ -1,19 +1,5 @@
 [
   {
-    "id": 662741,
-    "team1": {
-      "name": "Team Vitality"
-    },
-    "team2": {
-      "name": "Team Falcons"
-    },
-    "event": "BLAST Rivals Fall 2026",
-    "format": "bo3",
-    "timeUtc": 1794370500000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662744,
     "team1": {
       "name": "Team Spirit"
@@ -23,7 +9,7 @@
     },
     "event": "BLAST Rivals Fall 2026",
     "format": "bo3",
-    "timeUtc": 1794384000000,
+    "timeUtc": 1794380400000,
     "stars": 3,
     "live": false
   },
@@ -37,7 +23,7 @@
     },
     "event": "BLAST Rivals Fall 2026",
     "format": "bo3",
-    "timeUtc": 1794393000000,
+    "timeUtc": 1794387600000,
     "stars": 3,
     "live": false
   },
@@ -52,6 +38,34 @@
     "event": "DACH CS Masters Season 6",
     "format": "bo3",
     "timeUtc": 1794416400000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662743,
+    "team1": {
+      "name": "Legacy"
+    },
+    "team2": {
+      "name": "Team Falcons"
+    },
+    "event": "BLAST Rivals Fall 2026",
+    "format": "bo3",
+    "timeUtc": 1794452400000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662742,
+    "team1": {
+      "name": "FURIA Esports"
+    },
+    "team2": {
+      "name": "Team Vitality"
+    },
+    "event": "BLAST Rivals Fall 2026",
+    "format": "bo3",
+    "timeUtc": 1794461400000,
     "stars": 3,
     "live": false
   },
