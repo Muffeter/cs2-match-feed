@@ -1,19 +1,5 @@
 [
   {
-    "id": 662747,
-    "team1": {
-      "name": "FUT Esports"
-    },
-    "team2": {
-      "name": "MOUZ"
-    },
-    "event": "BLAST Rivals Fall 2026",
-    "format": "bo3",
-    "timeUtc": 1794466800000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662746,
     "team1": {
       "name": "Team Spirit"
@@ -23,7 +9,7 @@
     },
     "event": "BLAST Rivals Fall 2026",
     "format": "bo3",
-    "timeUtc": 1794475800000,
+    "timeUtc": 1794480600000,
     "stars": 3,
     "live": false
   },
