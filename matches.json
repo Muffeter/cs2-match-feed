@@ -1,19 +1,5 @@
 [
   {
-    "id": 662746,
-    "team1": {
-      "name": "Team Spirit"
-    },
-    "team2": {
-      "name": "G2 Esports"
-    },
-    "event": "BLAST Rivals Fall 2026",
-    "format": "bo3",
-    "timeUtc": 1794480600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 663064,
     "team1": {
       "name": "Betclic Apogee Esports"
