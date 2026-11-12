@@ -1,19 +1,5 @@
 [
   {
-    "id": 662743,
-    "team1": {
-      "name": "Legacy"
-    },
-    "team2": {
-      "name": "Team Falcons"
-    },
-    "event": "BLAST Rivals Fall 2026",
-    "format": "bo3",
-    "timeUtc": 1794448800000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662742,
     "team1": {
       "name": "FURIA Esports"
@@ -23,7 +9,7 @@
     },
     "event": "BLAST Rivals Fall 2026",
     "format": "bo3",
-    "timeUtc": 1794457800000,
+    "timeUtc": 1794456000000,
     "stars": 3,
     "live": false
   },
