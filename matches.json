@@ -82,5 +82,61 @@
     "timeUtc": 1794940200000,
     "stars": 3,
     "live": false
+  },
+  {
+    "id": 662885,
+    "team1": {
+      "name": "HEROIC"
+    },
+    "team2": {
+      "name": "Imperial Esports"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795492800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662886,
+    "team1": {
+      "name": "9z Team"
+    },
+    "team2": {
+      "name": "Lynn Vision Gaming"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795492800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662887,
+    "team1": {
+      "name": "Ninjas in Pyjamas"
+    },
+    "team2": {
+      "name": "M80"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795496400000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662888,
+    "team1": {
+      "name": "100 Thieves"
+    },
+    "team2": {
+      "name": "Chinggis Warriors"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795496400000,
+    "stars": 3,
+    "live": false
   }
 ]
