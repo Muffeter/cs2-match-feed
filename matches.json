@@ -1,5 +1,33 @@
 [
   {
+    "id": 662749,
+    "team1": {
+      "name": "Team Vitality"
+    },
+    "team2": {
+      "name": "MOUZ"
+    },
+    "event": "BLAST Rivals Fall 2026",
+    "format": "bo3",
+    "timeUtc": 1794556800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662748,
+    "team1": {
+      "name": "G2 Esports"
+    },
+    "team2": {
+      "name": "Team Falcons"
+    },
+    "event": "BLAST Rivals Fall 2026",
+    "format": "bo3",
+    "timeUtc": 1794565800000,
+    "stars": 3,
+    "live": false
+  },
+  {
     "id": 663064,
     "team1": {
       "name": "Betclic Apogee Esports"
