@@ -1,19 +1,5 @@
 [
   {
-    "id": 662748,
-    "team1": {
-      "name": "G2 Esports"
-    },
-    "team2": {
-      "name": "Team Falcons"
-    },
-    "event": "BLAST Rivals Fall 2026",
-    "format": "bo3",
-    "timeUtc": 1794566700000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662751,
     "team1": {
       "name": "Team Spirit"
@@ -24,6 +10,20 @@
     "event": "BLAST Rivals Fall 2026",
     "format": "bo3",
     "timeUtc": 1794643200000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662750,
+    "team1": {
+      "name": "FURIA Esports"
+    },
+    "team2": {
+      "name": "Team Falcons"
+    },
+    "event": "BLAST Rivals Fall 2026",
+    "format": "bo3",
+    "timeUtc": 1794652200000,
     "stars": 3,
     "live": false
   },
