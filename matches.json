@@ -1,15 +1,15 @@
 [
   {
-    "id": 662750,
+    "id": 662752,
     "team1": {
       "name": "FURIA Esports"
     },
     "team2": {
-      "name": "Team Falcons"
+      "name": "Team Spirit"
     },
     "event": "BLAST Rivals Fall 2026",
     "format": "bo3",
-    "timeUtc": 1794652200000,
+    "timeUtc": 1794729600000,
     "stars": 3,
     "live": false
   },
