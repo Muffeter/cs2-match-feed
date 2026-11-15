@@ -1,19 +1,5 @@
 [
   {
-    "id": 662752,
-    "team1": {
-      "name": "FURIA Esports"
-    },
-    "team2": {
-      "name": "Team Spirit"
-    },
-    "event": "BLAST Rivals Fall 2026",
-    "format": "bo3",
-    "timeUtc": 1794729600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 663884,
     "team1": {
       "name": "FaZe Clan"
@@ -132,6 +118,20 @@
     },
     "team2": {
       "name": "Imperial Esports"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795492800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662886,
+    "team1": {
+      "name": "9z Team"
+    },
+    "team2": {
+      "name": "Lynn Vision Gaming"
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
