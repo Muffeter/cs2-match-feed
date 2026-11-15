@@ -14,16 +14,16 @@
     "live": false
   },
   {
-    "id": 663889,
+    "id": 663891,
     "team1": {
-      "name": "33"
+      "name": "Magic Esports"
     },
     "team2": {
       "name": "Eternal Fire"
     },
     "event": "PGL Cluj-Napoca 2027",
     "format": "bo3",
-    "timeUtc": 1794767700000,
+    "timeUtc": 1794852000000,
     "stars": 3,
     "live": false
   },
