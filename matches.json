@@ -1,19 +1,5 @@
 [
   {
-    "id": 663890,
-    "team1": {
-      "name": "FaZe Clan"
-    },
-    "team2": {
-      "name": "HEROIC"
-    },
-    "event": "PGL Cluj-Napoca 2027",
-    "format": "bo3",
-    "timeUtc": 1794758400000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 663886,
     "team1": {
       "name": "PARIVISION"
@@ -132,6 +118,20 @@
     },
     "team2": {
       "name": "M80"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795496400000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662888,
+    "team1": {
+      "name": "100 Thieves"
+    },
+    "team2": {
+      "name": "Chinggis Warriors"
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
