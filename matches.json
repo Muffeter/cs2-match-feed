@@ -1,19 +1,5 @@
 [
   {
-    "id": 663887,
-    "team1": {
-      "name": "Fnatic"
-    },
-    "team2": {
-      "name": "Magic Esports"
-    },
-    "event": "PGL Cluj-Napoca 2027",
-    "format": "bo3",
-    "timeUtc": 1794757500000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 663890,
     "team1": {
       "name": "FaZe Clan"
@@ -136,6 +122,20 @@
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
     "timeUtc": 1795492800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662887,
+    "team1": {
+      "name": "Ninjas in Pyjamas"
+    },
+    "team2": {
+      "name": "M80"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795496400000,
     "stars": 3,
     "live": false
   }
