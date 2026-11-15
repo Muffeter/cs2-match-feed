@@ -1,19 +1,5 @@
 [
   {
-    "id": 663884,
-    "team1": {
-      "name": "FaZe Clan"
-    },
-    "team2": {
-      "name": "Fnatic"
-    },
-    "event": "PGL Cluj-Napoca 2027",
-    "format": "bo3",
-    "timeUtc": 1794733200000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 663882,
     "team1": {
       "name": "PARIVISION"
@@ -38,6 +24,34 @@
     "event": "PGL Cluj-Napoca 2027",
     "format": "bo3",
     "timeUtc": 1794748500000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663890,
+    "team1": {
+      "name": "FaZe Clan"
+    },
+    "team2": {
+      "name": "HEROIC"
+    },
+    "event": "PGL Cluj-Napoca 2027",
+    "format": "bo3",
+    "timeUtc": 1794754800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663887,
+    "team1": {
+      "name": "Fnatic"
+    },
+    "team2": {
+      "name": "Magic Esports"
+    },
+    "event": "PGL Cluj-Napoca 2027",
+    "format": "bo3",
+    "timeUtc": 1794765600000,
     "stars": 3,
     "live": false
   },
@@ -122,20 +136,6 @@
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
     "timeUtc": 1795492800000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 662887,
-    "team1": {
-      "name": "Ninjas in Pyjamas"
-    },
-    "team2": {
-      "name": "M80"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795496400000,
     "stars": 3,
     "live": false
   }
