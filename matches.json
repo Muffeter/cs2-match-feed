@@ -1,15 +1,15 @@
 [
   {
-    "id": 663886,
+    "id": 663892,
     "team1": {
       "name": "PARIVISION"
     },
     "team2": {
-      "name": "100 Thieves"
+      "name": "HEROIC"
     },
     "event": "PGL Cluj-Napoca 2027",
     "format": "bo3",
-    "timeUtc": 1794765600000,
+    "timeUtc": 1794841200000,
     "stars": 3,
     "live": false
   },
@@ -38,6 +38,20 @@
     "event": "Stake Ranked Episode 6",
     "format": "bo3",
     "timeUtc": 1794915000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663888,
+    "team1": {
+      "name": "100 Thieves"
+    },
+    "team2": {
+      "name": "Fnatic"
+    },
+    "event": "PGL Cluj-Napoca 2027",
+    "format": "bo3",
+    "timeUtc": 1794916800000,
     "stars": 3,
     "live": false
   },
@@ -118,20 +132,6 @@
     },
     "team2": {
       "name": "M80"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795496400000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 662888,
-    "team1": {
-      "name": "100 Thieves"
-    },
-    "team2": {
-      "name": "Chinggis Warriors"
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
