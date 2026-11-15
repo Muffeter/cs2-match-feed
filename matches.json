@@ -14,6 +14,62 @@
     "live": false
   },
   {
+    "id": 663884,
+    "team1": {
+      "name": "FaZe Clan"
+    },
+    "team2": {
+      "name": "Fnatic"
+    },
+    "event": "PGL Cluj-Napoca 2027",
+    "format": "bo3",
+    "timeUtc": 1794733200000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663885,
+    "team1": {
+      "name": "Magic Esports"
+    },
+    "team2": {
+      "name": "HEROIC"
+    },
+    "event": "PGL Cluj-Napoca 2027",
+    "format": "bo3",
+    "timeUtc": 1794733200000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663882,
+    "team1": {
+      "name": "PARIVISION"
+    },
+    "team2": {
+      "name": "33"
+    },
+    "event": "PGL Cluj-Napoca 2027",
+    "format": "bo3",
+    "timeUtc": 1794744000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663883,
+    "team1": {
+      "name": "100 Thieves"
+    },
+    "team2": {
+      "name": "Eternal Fire"
+    },
+    "event": "PGL Cluj-Napoca 2027",
+    "format": "bo3",
+    "timeUtc": 1794744000000,
+    "stars": 3,
+    "live": false
+  },
+  {
     "id": 663064,
     "team1": {
       "name": "Betclic Apogee Esports"
@@ -80,62 +136,6 @@
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
     "timeUtc": 1795492800000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 662886,
-    "team1": {
-      "name": "9z Team"
-    },
-    "team2": {
-      "name": "Lynn Vision Gaming"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795492800000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 662887,
-    "team1": {
-      "name": "Ninjas in Pyjamas"
-    },
-    "team2": {
-      "name": "M80"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795496400000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 662888,
-    "team1": {
-      "name": "100 Thieves"
-    },
-    "team2": {
-      "name": "Chinggis Warriors"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795496400000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 662889,
-    "team1": {
-      "name": "Team Liquid"
-    },
-    "team2": {
-      "name": "GOSH"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795500000000,
     "stars": 3,
     "live": false
   }
