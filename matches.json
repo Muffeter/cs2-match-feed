@@ -1,19 +1,5 @@
 [
   {
-    "id": 663882,
-    "team1": {
-      "name": "PARIVISION"
-    },
-    "team2": {
-      "name": "33"
-    },
-    "event": "PGL Cluj-Napoca 2027",
-    "format": "bo3",
-    "timeUtc": 1794745200000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 663883,
     "team1": {
       "name": "100 Thieves"
@@ -136,6 +122,20 @@
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
     "timeUtc": 1795492800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662887,
+    "team1": {
+      "name": "Ninjas in Pyjamas"
+    },
+    "team2": {
+      "name": "M80"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795496400000,
     "stars": 3,
     "live": false
   }
