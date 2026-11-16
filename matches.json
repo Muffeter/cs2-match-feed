@@ -1,19 +1,5 @@
 [
   {
-    "id": 663892,
-    "team1": {
-      "name": "PARIVISION"
-    },
-    "team2": {
-      "name": "HEROIC"
-    },
-    "event": "PGL Cluj-Napoca 2027",
-    "format": "bo3",
-    "timeUtc": 1794852000000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 663064,
     "team1": {
       "name": "Betclic Apogee Esports"
@@ -34,6 +20,20 @@
     },
     "team2": {
       "name": "Fnatic"
+    },
+    "event": "PGL Cluj-Napoca 2027",
+    "format": "bo3",
+    "timeUtc": 1794916800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663893,
+    "team1": {
+      "name": "Magic Esports"
+    },
+    "team2": {
+      "name": "HEROIC"
     },
     "event": "PGL Cluj-Napoca 2027",
     "format": "bo3",
