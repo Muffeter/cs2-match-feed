@@ -1,11 +1,11 @@
 [
   {
-    "id": 663892,
+    "id": 663891,
     "team1": {
-      "name": "PARIVISION"
+      "name": "Magic Esports"
     },
     "team2": {
-      "name": "HEROIC"
+      "name": "Eternal Fire"
     },
     "event": "PGL Cluj-Napoca 2027",
     "format": "bo3",
@@ -14,12 +14,12 @@
     "live": false
   },
   {
-    "id": 663891,
+    "id": 663892,
     "team1": {
-      "name": "Magic Esports"
+      "name": "PARIVISION"
     },
     "team2": {
-      "name": "Eternal Fire"
+      "name": "HEROIC"
     },
     "event": "PGL Cluj-Napoca 2027",
     "format": "bo3",
