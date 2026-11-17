@@ -1,19 +1,5 @@
 [
   {
-    "id": 663888,
-    "team1": {
-      "name": "100 Thieves"
-    },
-    "team2": {
-      "name": "Fnatic"
-    },
-    "event": "PGL Cluj-Napoca 2027",
-    "format": "bo3",
-    "timeUtc": 1794916800000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 663321,
     "team1": {
       "name": "BIG"
@@ -24,6 +10,20 @@
     "event": "Stake Ranked Episode 6",
     "format": "bo3",
     "timeUtc": 1794920400000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663894,
+    "team1": {
+      "name": "Fnatic"
+    },
+    "team2": {
+      "name": "Magic Esports"
+    },
+    "event": "PGL Cluj-Napoca 2027",
+    "format": "bo3",
+    "timeUtc": 1794927600000,
     "stars": 3,
     "live": false
   },
