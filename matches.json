@@ -1,19 +1,5 @@
 [
   {
-    "id": 663320,
-    "team1": {
-      "name": "Luminosity Gaming"
-    },
-    "team2": {
-      "name": "GamerLegion"
-    },
-    "event": "Stake Ranked Episode 6",
-    "format": "bo3",
-    "timeUtc": 1794940200000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 663069,
     "team1": {
       "name": "BIG"
@@ -132,6 +118,20 @@
     },
     "team2": {
       "name": "Wildcard"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795503600000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662892,
+    "team1": {
+      "name": "Eternal Fire"
+    },
+    "team2": {
+      "name": "FlyQuest"
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
