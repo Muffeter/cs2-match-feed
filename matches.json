@@ -1,19 +1,5 @@
 [
   {
-    "id": 663064,
-    "team1": {
-      "name": "Betclic Apogee Esports"
-    },
-    "team2": {
-      "name": "Inner Circle Esports"
-    },
-    "event": "Stake Ranked Episode 6",
-    "format": "bo3",
-    "timeUtc": 1794913200000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 663888,
     "team1": {
       "name": "100 Thieves"
@@ -136,6 +122,20 @@
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
     "timeUtc": 1795496400000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662889,
+    "team1": {
+      "name": "Team Liquid"
+    },
+    "team2": {
+      "name": "GOSH"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795500000000,
     "stars": 3,
     "live": false
   }
