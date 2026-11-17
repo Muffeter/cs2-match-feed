@@ -1,5 +1,19 @@
 [
   {
+    "id": 663061,
+    "team1": {
+      "name": "Ninjas in Pyjamas"
+    },
+    "team2": {
+      "name": "UNITY Esports"
+    },
+    "event": "Stake Ranked Episode 6",
+    "format": "bo3",
+    "timeUtc": 1794928800000,
+    "stars": 3,
+    "live": false
+  },
+  {
     "id": 663894,
     "team1": {
       "name": "Fnatic"
@@ -10,20 +24,6 @@
     "event": "PGL Cluj-Napoca 2027",
     "format": "bo3",
     "timeUtc": 1794928800000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 663061,
-    "team1": {
-      "name": "Ninjas in Pyjamas"
-    },
-    "team2": {
-      "name": "UNITY Esports"
-    },
-    "event": "Stake Ranked Episode 6",
-    "format": "bo3",
-    "timeUtc": 1794931200000,
     "stars": 3,
     "live": false
   },
