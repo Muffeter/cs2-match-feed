@@ -1,19 +1,5 @@
 [
   {
-    "id": 663066,
-    "team1": {
-      "name": "Sangal Esports"
-    },
-    "team2": {
-      "name": "Inner Circle Esports"
-    },
-    "event": "Stake Ranked Episode 6",
-    "format": "bo3",
-    "timeUtc": 1795019400000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 663065,
     "team1": {
       "name": "Ninjas in Pyjamas"
