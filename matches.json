@@ -1,15 +1,43 @@
 [
   {
-    "id": 663065,
+    "id": 663070,
+    "team1": {
+      "name": "Inner Circle Esports"
+    },
+    "team2": {
+      "name": "GamerLegion"
+    },
+    "event": "Stake Ranked Episode 6",
+    "format": "bo3",
+    "timeUtc": 1795086000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663071,
     "team1": {
       "name": "Ninjas in Pyjamas"
     },
     "team2": {
-      "name": "Luminosity Gaming"
+      "name": "BIG"
     },
     "event": "Stake Ranked Episode 6",
     "format": "bo3",
-    "timeUtc": 1795026600000,
+    "timeUtc": 1795095000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663067,
+    "team1": {
+      "name": "Luminosity Gaming"
+    },
+    "team2": {
+      "name": "Sangal Esports"
+    },
+    "event": "Stake Ranked Episode 6",
+    "format": "bo3",
+    "timeUtc": 1795104000000,
     "stars": 3,
     "live": false
   },
@@ -104,20 +132,6 @@
     },
     "team2": {
       "name": "Wildcard"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795503600000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 662892,
-    "team1": {
-      "name": "Eternal Fire"
-    },
-    "team2": {
-      "name": "FlyQuest"
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
