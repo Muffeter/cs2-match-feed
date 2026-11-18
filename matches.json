@@ -1,19 +1,5 @@
 [
   {
-    "id": 663069,
-    "team1": {
-      "name": "BIG"
-    },
-    "team2": {
-      "name": "Betclic Apogee Esports"
-    },
-    "event": "Stake Ranked Episode 6",
-    "format": "bo3",
-    "timeUtc": 1794999600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 663068,
     "team1": {
       "name": "UNITY Esports"
@@ -23,7 +9,7 @@
     },
     "event": "Stake Ranked Episode 6",
     "format": "bo3",
-    "timeUtc": 1795008600000,
+    "timeUtc": 1795010400000,
     "stars": 3,
     "live": false
   },
@@ -136,6 +122,20 @@
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
     "timeUtc": 1795500000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662891,
+    "team1": {
+      "name": "FaZe Clan"
+    },
+    "team2": {
+      "name": "Wildcard"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795503600000,
     "stars": 3,
     "live": false
   }
