@@ -1,15 +1,15 @@
 [
   {
-    "id": 663072,
+    "id": 663073,
     "team1": {
-      "name": "GamerLegion"
+      "name": "Luminosity Gaming"
     },
     "team2": {
       "name": "BIG"
     },
     "event": "Stake Ranked Episode 6",
     "format": "bo3",
-    "timeUtc": 1795116600000,
+    "timeUtc": 1795176000000,
     "stars": 3,
     "live": false
   },
