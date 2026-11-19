@@ -1,19 +1,5 @@
 [
   {
-    "id": 663071,
-    "team1": {
-      "name": "Ninjas in Pyjamas"
-    },
-    "team2": {
-      "name": "BIG"
-    },
-    "event": "Stake Ranked Episode 6",
-    "format": "bo3",
-    "timeUtc": 1795097700000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 663067,
     "team1": {
       "name": "Luminosity Gaming"
@@ -24,6 +10,20 @@
     "event": "Stake Ranked Episode 6",
     "format": "bo3",
     "timeUtc": 1795105800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 663072,
+    "team1": {
+      "name": "GamerLegion"
+    },
+    "team2": {
+      "name": "BIG"
+    },
+    "event": "Stake Ranked Episode 6",
+    "format": "bo3",
+    "timeUtc": 1795111200000,
     "stars": 3,
     "live": false
   },
