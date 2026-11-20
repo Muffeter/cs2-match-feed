@@ -1,19 +1,5 @@
 [
   {
-    "id": 663074,
-    "team1": {
-      "name": "Sangal Esports"
-    },
-    "team2": {
-      "name": "Luminosity Gaming"
-    },
-    "event": "Stake Ranked Episode 6",
-    "format": "bo3",
-    "timeUtc": 1795192200000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662885,
     "team1": {
       "name": "HEROIC"
