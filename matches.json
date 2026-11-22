@@ -110,5 +110,33 @@
     "timeUtc": 1795503600000,
     "stars": 3,
     "live": false
+  },
+  {
+    "id": 664058,
+    "team1": {
+      "name": "BIG Academy"
+    },
+    "team2": {
+      "name": "BLUEJAYS.de"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1796983200000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 664059,
+    "team1": {
+      "name": "Entropy Gaming"
+    },
+    "team2": {
+      "name": "Playing Ducks"
+    },
+    "event": "DACH CS Masters Season 6",
+    "format": "bo3",
+    "timeUtc": 1796983200000,
+    "stars": 3,
+    "live": false
   }
 ]
