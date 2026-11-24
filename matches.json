@@ -1,19 +1,5 @@
 [
   {
-    "id": 662900,
-    "team1": {
-      "name": "9z Team"
-    },
-    "team2": {
-      "name": "M80"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795513500000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662896,
     "team1": {
       "name": "100 Thieves"
@@ -28,26 +14,26 @@
     "live": false
   },
   {
-    "id": 662894,
-    "team1": {
-      "name": "PARIVISION"
-    },
-    "team2": {
-      "name": "FlyQuest"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795518000000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662899,
     "team1": {
       "name": "Eternal Fire"
     },
     "team2": {
       "name": "DENDELE CS"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795517100000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662894,
+    "team1": {
+      "name": "PARIVISION"
+    },
+    "team2": {
+      "name": "FlyQuest"
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
