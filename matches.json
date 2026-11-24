@@ -1,19 +1,5 @@
 [
   {
-    "id": 662893,
-    "team1": {
-      "name": "Ninjas in Pyjamas"
-    },
-    "team2": {
-      "name": "Lynn Vision Gaming"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795509600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662896,
     "team1": {
       "name": "100 Thieves"
