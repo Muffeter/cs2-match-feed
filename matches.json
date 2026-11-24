@@ -1,19 +1,5 @@
 [
   {
-    "id": 662899,
-    "team1": {
-      "name": "Eternal Fire"
-    },
-    "team2": {
-      "name": "DENDELE CS"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795517100000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662894,
     "team1": {
       "name": "PARIVISION"
@@ -28,26 +14,26 @@
     "live": false
   },
   {
-    "id": 662895,
-    "team1": {
-      "name": "Team Liquid"
-    },
-    "team2": {
-      "name": "Wildcard"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795521600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662898,
     "team1": {
       "name": "FaZe Clan"
     },
     "team2": {
       "name": "GOSH"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795521000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662895,
+    "team1": {
+      "name": "Team Liquid"
+    },
+    "team2": {
+      "name": "Wildcard"
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
