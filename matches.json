@@ -1,19 +1,5 @@
 [
   {
-    "id": 662890,
-    "team1": {
-      "name": "PARIVISION"
-    },
-    "team2": {
-      "name": "DENDELE CS"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795501500000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662891,
     "team1": {
       "name": "FaZe Clan"
@@ -37,7 +23,7 @@
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
-    "timeUtc": 1795505400000,
+    "timeUtc": 1795504800000,
     "stars": 3,
     "live": false
   },
