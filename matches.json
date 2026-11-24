@@ -1,19 +1,5 @@
 [
   {
-    "id": 662891,
-    "team1": {
-      "name": "FaZe Clan"
-    },
-    "team2": {
-      "name": "Wildcard"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795503600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662892,
     "team1": {
       "name": "Eternal Fire"
