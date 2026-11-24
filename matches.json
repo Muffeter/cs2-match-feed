@@ -1,5 +1,117 @@
 [
   {
+    "id": 662901,
+    "team1": {
+      "name": "HEROIC"
+    },
+    "team2": {
+      "name": "M80"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795586400000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662902,
+    "team1": {
+      "name": "Eternal Fire"
+    },
+    "team2": {
+      "name": "100 Thieves"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795586400000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662905,
+    "team1": {
+      "name": "PARIVISION"
+    },
+    "team2": {
+      "name": "FaZe Clan"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795590000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662906,
+    "team1": {
+      "name": "Wildcard"
+    },
+    "team2": {
+      "name": "Lynn Vision Gaming"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795590000000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662903,
+    "team1": {
+      "name": "9z Team"
+    },
+    "team2": {
+      "name": "DENDELE CS"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795593600000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662904,
+    "team1": {
+      "name": "Imperial Esports"
+    },
+    "team2": {
+      "name": "FlyQuest"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795593600000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662907,
+    "team1": {
+      "name": "Ninjas in Pyjamas"
+    },
+    "team2": {
+      "name": "Team Liquid"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795602600000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662908,
+    "team1": {
+      "name": "GOSH"
+    },
+    "team2": {
+      "name": "Chinggis Warriors"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795602600000,
+    "stars": 3,
+    "live": false
+  },
+  {
     "id": 664058,
     "team1": {
       "name": "BIG Academy"
