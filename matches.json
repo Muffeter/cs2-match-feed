@@ -1,19 +1,5 @@
 [
   {
-    "id": 662892,
-    "team1": {
-      "name": "Eternal Fire"
-    },
-    "team2": {
-      "name": "FlyQuest"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795504800000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 664058,
     "team1": {
       "name": "BIG Academy"
