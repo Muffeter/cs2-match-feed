@@ -1,19 +1,5 @@
 [
   {
-    "id": 662889,
-    "team1": {
-      "name": "Team Liquid"
-    },
-    "team2": {
-      "name": "GOSH"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795500000000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662890,
     "team1": {
       "name": "PARIVISION"
