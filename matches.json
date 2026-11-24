@@ -1,15 +1,15 @@
 [
   {
-    "id": 662894,
+    "id": 662895,
     "team1": {
-      "name": "PARIVISION"
+      "name": "Team Liquid"
     },
     "team2": {
-      "name": "FlyQuest"
+      "name": "Wildcard"
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
-    "timeUtc": 1795518000000,
+    "timeUtc": 1795521000000,
     "stars": 3,
     "live": false
   },
@@ -23,21 +23,7 @@
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
-    "timeUtc": 1795521000000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 662895,
-    "team1": {
-      "name": "Team Liquid"
-    },
-    "team2": {
-      "name": "Wildcard"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795521600000,
+    "timeUtc": 1795522200000,
     "stars": 3,
     "live": false
   },
