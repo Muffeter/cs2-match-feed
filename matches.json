@@ -1,33 +1,5 @@
 [
   {
-    "id": 662887,
-    "team1": {
-      "name": "Ninjas in Pyjamas"
-    },
-    "team2": {
-      "name": "M80"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795496400000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 662888,
-    "team1": {
-      "name": "100 Thieves"
-    },
-    "team2": {
-      "name": "Chinggis Warriors"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795497600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662889,
     "team1": {
       "name": "Team Liquid"
@@ -51,7 +23,7 @@
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
-    "timeUtc": 1795500000000,
+    "timeUtc": 1795501500000,
     "stars": 3,
     "live": false
   },
@@ -79,7 +51,7 @@
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
-    "timeUtc": 1795503600000,
+    "timeUtc": 1795505400000,
     "stars": 3,
     "live": false
   },
