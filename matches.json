@@ -14,26 +14,26 @@
     "live": false
   },
   {
-    "id": 662907,
-    "team1": {
-      "name": "Ninjas in Pyjamas"
-    },
-    "team2": {
-      "name": "Team Liquid"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795602600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662908,
     "team1": {
       "name": "GOSH"
     },
     "team2": {
       "name": "Chinggis Warriors"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795601100000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662907,
+    "team1": {
+      "name": "Ninjas in Pyjamas"
+    },
+    "team2": {
+      "name": "Team Liquid"
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
