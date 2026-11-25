@@ -1,19 +1,5 @@
 [
   {
-    "id": 662904,
-    "team1": {
-      "name": "Imperial Esports"
-    },
-    "team2": {
-      "name": "FlyQuest"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795595400000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662908,
     "team1": {
       "name": "GOSH"
@@ -37,7 +23,7 @@
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
-    "timeUtc": 1795602600000,
+    "timeUtc": 1795603800000,
     "stars": 3,
     "live": false
   },
