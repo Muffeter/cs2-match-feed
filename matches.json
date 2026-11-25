@@ -1,29 +1,15 @@
 [
   {
-    "id": 662901,
+    "id": 662906,
     "team1": {
-      "name": "HEROIC"
+      "name": "Wildcard"
     },
     "team2": {
-      "name": "M80"
+      "name": "Lynn Vision Gaming"
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
-    "timeUtc": 1795586400000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 662902,
-    "team1": {
-      "name": "Eternal Fire"
-    },
-    "team2": {
-      "name": "100 Thieves"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795586400000,
+    "timeUtc": 1795590000000,
     "stars": 3,
     "live": false
   },
@@ -37,21 +23,7 @@
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
-    "timeUtc": 1795590000000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 662906,
-    "team1": {
-      "name": "Wildcard"
-    },
-    "team2": {
-      "name": "Lynn Vision Gaming"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795590000000,
+    "timeUtc": 1795590600000,
     "stars": 3,
     "live": false
   },
