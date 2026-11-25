@@ -1,5 +1,89 @@
 [
   {
+    "id": 662909,
+    "team1": {
+      "name": "M80"
+    },
+    "team2": {
+      "name": "Eternal Fire"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795672800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662912,
+    "team1": {
+      "name": "HEROIC"
+    },
+    "team2": {
+      "name": "FaZe Clan"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795672800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662910,
+    "team1": {
+      "name": "Lynn Vision Gaming"
+    },
+    "team2": {
+      "name": "PVISION"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795681800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662913,
+    "team1": {
+      "name": "100 Thieves"
+    },
+    "team2": {
+      "name": "9z Team"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795681800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662911,
+    "team1": {
+      "name": "Imperial Esports"
+    },
+    "team2": {
+      "name": "Team Liquid"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795690800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662914,
+    "team1": {
+      "name": "Wildcard"
+    },
+    "team2": {
+      "name": "Chinggis Warriors"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795690800000,
+    "stars": 3,
+    "live": false
+  },
+  {
     "id": 664058,
     "team1": {
       "name": "BIG Academy"
