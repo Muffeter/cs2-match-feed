@@ -1,19 +1,5 @@
 [
   {
-    "id": 662906,
-    "team1": {
-      "name": "Wildcard"
-    },
-    "team2": {
-      "name": "Lynn Vision Gaming"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795590000000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662905,
     "team1": {
       "name": "PARIVISION"
@@ -51,7 +37,7 @@
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
-    "timeUtc": 1795593600000,
+    "timeUtc": 1795594200000,
     "stars": 3,
     "live": false
   },
