@@ -1,33 +1,5 @@
 [
   {
-    "id": 662909,
-    "team1": {
-      "name": "M80"
-    },
-    "team2": {
-      "name": "Eternal Fire"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795672800000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 662912,
-    "team1": {
-      "name": "HEROIC"
-    },
-    "team2": {
-      "name": "FaZe Clan"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795672800000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662910,
     "team1": {
       "name": "Lynn Vision Gaming"
@@ -37,7 +9,7 @@
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
-    "timeUtc": 1795682700000,
+    "timeUtc": 1795683000000,
     "stars": 3,
     "live": false
   },
