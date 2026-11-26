@@ -1,19 +1,5 @@
 [
   {
-    "id": 662911,
-    "team1": {
-      "name": "Imperial Esports"
-    },
-    "team2": {
-      "name": "Team Liquid"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795692000000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662914,
     "team1": {
       "name": "Wildcard"
