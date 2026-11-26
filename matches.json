@@ -28,20 +28,6 @@
     "live": false
   },
   {
-    "id": 662910,
-    "team1": {
-      "name": "Lynn Vision Gaming"
-    },
-    "team2": {
-      "name": "PVISION"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795681800000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662913,
     "team1": {
       "name": "100 Thieves"
@@ -52,6 +38,20 @@
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
     "timeUtc": 1795681800000,
+    "stars": 3,
+    "live": false
+  },
+  {
+    "id": 662910,
+    "team1": {
+      "name": "Lynn Vision Gaming"
+    },
+    "team2": {
+      "name": "PVISION"
+    },
+    "event": "PGL Major Singapore 2026",
+    "format": "bo3",
+    "timeUtc": 1795682700000,
     "stars": 3,
     "live": false
   },
