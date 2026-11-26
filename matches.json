@@ -1,19 +1,5 @@
 [
   {
-    "id": 662913,
-    "team1": {
-      "name": "100 Thieves"
-    },
-    "team2": {
-      "name": "9z Team"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795683600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662911,
     "team1": {
       "name": "Imperial Esports"
