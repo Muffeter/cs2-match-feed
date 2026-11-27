@@ -1,19 +1,5 @@
 [
   {
-    "id": 662916,
-    "team1": {
-      "name": "Imperial Esports"
-    },
-    "team2": {
-      "name": "Wildcard"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795768200000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662917,
     "team1": {
       "name": "M80"
@@ -23,7 +9,7 @@
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
-    "timeUtc": 1795779900000,
+    "timeUtc": 1795780800000,
     "stars": 3,
     "live": false
   },
