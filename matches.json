@@ -1,19 +1,5 @@
 [
   {
-    "id": 662917,
-    "team1": {
-      "name": "M80"
-    },
-    "team2": {
-      "name": "100 Thieves"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795780800000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 664058,
     "team1": {
       "name": "BIG Academy"
