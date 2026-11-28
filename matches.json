@@ -1,19 +1,5 @@
 [
   {
-    "id": 662932,
-    "team1": {
-      "name": "MIBR"
-    },
-    "team2": {
-      "name": "Imperial Esports"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795867200000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662929,
     "team1": {
       "name": "Natus Vincere"
