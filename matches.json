@@ -1,33 +1,5 @@
 [
   {
-    "id": 662918,
-    "team1": {
-      "name": "FUT Esports"
-    },
-    "team2": {
-      "name": "FlyQuest"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795838400000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 662919,
-    "team1": {
-      "name": "The MongolZ"
-    },
-    "team2": {
-      "name": "Lynn Vision Gaming"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795838400000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662920,
     "team1": {
       "name": "Nemiga Gaming"
