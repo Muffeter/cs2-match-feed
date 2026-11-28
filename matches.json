@@ -1,19 +1,5 @@
 [
   {
-    "id": 662923,
-    "team1": {
-      "name": "The One"
-    },
-    "team2": {
-      "name": "Eternal Fire"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795846500000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662924,
     "team1": {
       "name": "Natus Vincere"
