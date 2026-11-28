@@ -1,19 +1,5 @@
 [
   {
-    "id": 662922,
-    "team1": {
-      "name": "G2 Esports"
-    },
-    "team2": {
-      "name": "Team Liquid"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795846500000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662923,
     "team1": {
       "name": "The One"
@@ -37,7 +23,7 @@
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
-    "timeUtc": 1795850100000,
+    "timeUtc": 1795850400000,
     "stars": 3,
     "live": false
   },
@@ -51,7 +37,7 @@
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
-    "timeUtc": 1795850100000,
+    "timeUtc": 1795850700000,
     "stars": 3,
     "live": false
   },
