@@ -1,19 +1,5 @@
 [
   {
-    "id": 662929,
-    "team1": {
-      "name": "Natus Vincere"
-    },
-    "team2": {
-      "name": "Astralis"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795869900000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662933,
     "team1": {
       "name": "FlyQuest"
