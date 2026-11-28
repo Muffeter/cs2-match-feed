@@ -1,33 +1,5 @@
 [
   {
-    "id": 662924,
-    "team1": {
-      "name": "Natus Vincere"
-    },
-    "team2": {
-      "name": "PVISION"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795850400000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 662925,
-    "team1": {
-      "name": "MIBR"
-    },
-    "team2": {
-      "name": "100 Thieves"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795850700000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 664058,
     "team1": {
       "name": "BIG Academy"
