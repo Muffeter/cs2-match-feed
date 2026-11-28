@@ -14,16 +14,16 @@
     "live": false
   },
   {
-    "id": 662930,
+    "id": 662931,
     "team1": {
-      "name": "Nemiga Gaming"
+      "name": "Team Liquid"
     },
     "team2": {
-      "name": "Lynn Vision Gaming"
+      "name": "Eternal Fire"
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
-    "timeUtc": 1795857600000,
+    "timeUtc": 1795860600000,
     "stars": 3,
     "live": false
   },
@@ -34,20 +34,6 @@
     },
     "team2": {
       "name": "The MongolZ"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795861800000,
-    "stars": 3,
-    "live": false
-  },
-  {
-    "id": 662931,
-    "team1": {
-      "name": "Team Liquid"
-    },
-    "team2": {
-      "name": "Eternal Fire"
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
