@@ -1,19 +1,5 @@
 [
   {
-    "id": 662926,
-    "team1": {
-      "name": "G2 Esports"
-    },
-    "team2": {
-      "name": "Ninjas in Pyjamas"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795857600000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662931,
     "team1": {
       "name": "Team Liquid"
