@@ -1,19 +1,5 @@
 [
   {
-    "id": 662931,
-    "team1": {
-      "name": "Team Liquid"
-    },
-    "team2": {
-      "name": "Eternal Fire"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795860900000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662928,
     "team1": {
       "name": "FUT Esports"
