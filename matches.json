@@ -14,20 +14,6 @@
     "live": false
   },
   {
-    "id": 662927,
-    "team1": {
-      "name": "The One"
-    },
-    "team2": {
-      "name": "The MongolZ"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795861800000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662928,
     "team1": {
       "name": "FUT Esports"
@@ -37,7 +23,7 @@
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
-    "timeUtc": 1795865400000,
+    "timeUtc": 1795866300000,
     "stars": 3,
     "live": false
   },
@@ -51,7 +37,7 @@
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
-    "timeUtc": 1795865400000,
+    "timeUtc": 1795867200000,
     "stars": 3,
     "live": false
   },
