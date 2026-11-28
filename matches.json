@@ -1,19 +1,5 @@
 [
   {
-    "id": 662928,
-    "team1": {
-      "name": "FUT Esports"
-    },
-    "team2": {
-      "name": "100 Thieves"
-    },
-    "event": "PGL Major Singapore 2026",
-    "format": "bo3",
-    "timeUtc": 1795866300000,
-    "stars": 3,
-    "live": false
-  },
-  {
     "id": 662932,
     "team1": {
       "name": "MIBR"
@@ -37,7 +23,7 @@
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
-    "timeUtc": 1795869000000,
+    "timeUtc": 1795869900000,
     "stars": 3,
     "live": false
   },
@@ -51,7 +37,7 @@
     },
     "event": "PGL Major Singapore 2026",
     "format": "bo3",
-    "timeUtc": 1795869900000,
+    "timeUtc": 1795870800000,
     "stars": 3,
     "live": false
   },
